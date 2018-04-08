@@ -13,7 +13,7 @@ A bunch of physicists including me just finished a review titled "*A high-bias, 
 
 ### Research ###
 
-Generally speaking, I'm interested in applying statistical physics to understand how collective behavior of matters emerges. In the past, I did some condensed matter physics (ranging from the strongly correlated physics and nonlinear dynamics of ultra-cold atoms to the Ginzburg-Landu theory of liquid-solid interfacial dynamics), but now I focus more on biological systems. For details, check out my Research page.
+Generally speaking, I'm interested in applying statistical physics to understand how collective behavior of matters emerges. In the past, I did some condensed matter physics (ranging from the strongly correlated physics and nonlinear dynamics of ultra-cold atoms to the Ginzburg-Landu theory of liquid-solid interfacial dynamics), but now I focus more on biological systems. For details, check out my [Research](https://chinghao0703.github.io/Research/) page.
 
 
 ### Contact me
