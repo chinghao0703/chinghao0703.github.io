@@ -1,3 +1,10 @@
+---
+layout: page
+title: Research
+permalink: /Research/
+---
+
+
 ### Ongoing projects ###
 
 * **Statistical mechanical design of cellular computations**
