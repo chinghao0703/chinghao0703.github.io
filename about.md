@@ -4,12 +4,20 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a physics Ph.D. student working with [Pankaj Mehta](https://physics.bu.edu/~pankajm/) on problems that lie on the interface between physics, biology, computer science, and machine learning. Here you can find my [CV](https://www.dropbox.com/s/0fl1yhye8zwfcjq/CHW_CV.pdf?dl=0). Also check out my GitHub [repository](https://github.com/chinghao0703) for some eclectic codes I wrote. I hope to fully migrate my [website](https://sites.google.com/site/chinghaowang/) from Google to here by this May.
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+### News ###
+
+A bunch of physicists including me just finished a review titled "*A high-bias, low-variance introduction to Machine Learning for physicists*". We also made 20 Jupyter notebooks to showcase the ideas introduced in the main text. Check out [arXiv:1803.08823](https://arxiv.org/abs/1803.08823) and the accompanying [website](http://physics.bu.edu/~pankajm/MLnotebooks.html) for more details. Feel free to submit your comments, suggestions, or criticisms [here](https://docs.google.com/forms/d/e/1FAIpQLSd_ZqSuNXB5wTuLzYkXIOOBkmbMuSb7h4jia5koLg5aawq5Qw/viewform).
+
+### Research ###
+
+Generally speaking, I'm interested in applying statistical physics to understand how collective behavior of matters emerges. In the past, I did some condensed matter physics (ranging from the strongly correlated physics and nonlinear dynamics of ultra-cold atoms to the Ginzburg-Landu theory of liquid-solid interfacial dynamics), but now I focus more on biological systems. For details, check out my [Research](Research) page.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+The best way to reach me is through e-mail:
+
+`chinghao.elroy` *[AT]* `gmail.com`
