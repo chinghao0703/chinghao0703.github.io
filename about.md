@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![](https://2bdda640-a-62cb3a1a-s-sites.googlegroups.com/site/chinghaowang/home/IMG_2857.jpg?attachauth=ANoY7cpyIdVQk2TaxXZILGksCh9IqWKxkKUTZdyJFWxUeBVm-uYlA6d0MVYCgACkQ9qsI0cWuZIyr4E-u65YYnV-WAHJ-UTvJlPtsDtGeCesomHAQhoUTjjCD-QpFG-rv3GlMnXUr7ihG3QiDCmC36axwKJE65SVOtqvpy3tDMDwLF7G4-zr85QoLRMkv1gjb_bRT6tnnjTWfQEtJY9CIYjxz12e0zGBSQ%3D%3D&attredirects=0 " width="200")
+![](https://2bdda640-a-62cb3a1a-s-sites.googlegroups.com/site/chinghaowang/home/IMG_2857.jpg?attachauth=ANoY7cpyIdVQk2TaxXZILGksCh9IqWKxkKUTZdyJFWxUeBVm-uYlA6d0MVYCgACkQ9qsI0cWuZIyr4E-u65YYnV-WAHJ-UTvJlPtsDtGeCesomHAQhoUTjjCD-QpFG-rv3GlMnXUr7ihG3QiDCmC36axwKJE65SVOtqvpy3tDMDwLF7G4-zr85QoLRMkv1gjb_bRT6tnnjTWfQEtJY9CIYjxz12e0zGBSQ%3D%3D&attredirects=0| width=100)
 
 I'm a physics Ph.D. student working with [Pankaj Mehta](https://physics.bu.edu/~pankajm/) on problems that lie on the interface between physics, biology, computer science, and machine learning. Here you can find my [CV](https://www.dropbox.com/s/0fl1yhye8zwfcjq/CHW_CV.pdf?dl=0). Also check out my GitHub [repository](https://github.com/chinghao0703) for some eclectic codes I wrote. I hope to fully migrate my [website](https://sites.google.com/site/chinghaowang/) from Google to here by this May.
 
