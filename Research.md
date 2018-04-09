@@ -23,6 +23,9 @@ permalink: /Research/
 * **Statistical physics of energy expenditure in biology**
 * **Range expansion in ecology and evolution**
 
+    Invasions and range expansions are common ecological processes that often fundamentally transform affected communities. We show that the properties of invasions are remarkably different depending on whether space and time are continuous or discrete. Discrete models describe seasonal growth and fragmented habitats, while continuous models are appropriate when there is little temporal and spatial variation. Our main result is that, in discrete models, the expansions can proceed periodically in a step-like or pulsed fashion with velocities locked into specific values. In locked expansions, small changes in migration or growth either have no effect on the invasion rate or lead to a discontinuous jump in the expansion velocity and alter the periodicity of front pulsations. As a result, the evolution and response to perturbations in locked expansions could be markedly different compared to the expectations based on continuous models. Velocity locking occurs only when both space and time are discrete and further requires an Allee effect, i.e. an increase in the growth rate with density due to intraspecific facilitation or other factors. When Allee effects are negligible, expansions proceed in the standard smooth fashion for both discrete and continuous models. In sum, pushed but not pulled expansions can become locked. 
+
+
 
 ### When I was a condensed matter theorist ###
 
@@ -30,6 +33,6 @@ permalink: /Research/
 
     A major determinant of the morphology of crystals grown from the melt far from local thermodynamic equilibrium is the solid-liquid interface kinetic coefficient. Extending the standard equilibrium Ginzburg-Landau framework, we incorporate a thermodynamic driving force proportional to the undercooling and a free-energy dissipation time scale that is related to the inverse half-width of the dynamic equilibrium structure factor to derive the kinetic coefficient explicitly. We contrast our result with previous linear analytic approximation and that obtained by MD simulation. We also used our theory to derive an inverse relation between the kinetic coefficient and the solid-liquid interfacial free-energy. The general methodology used here also applies to amplitude equations derived from the phase-field-crystal model, which only differ from GL theory by the choice of cubic and higher-order nonlinearities in the free-energy density.
     
-    ![](https://github.com/chinghao0703/chinghao0703.github.io/blob/master/images/GLpaper.png)
+    
 
 
