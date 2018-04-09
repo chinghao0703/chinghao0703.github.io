@@ -33,6 +33,10 @@ permalink: /Research/
 
     A major determinant of the morphology of crystals grown from the melt far from local thermodynamic equilibrium is the solid-liquid interface kinetic coefficient. Extending the standard equilibrium Ginzburg-Landau framework, we incorporate a thermodynamic driving force proportional to the undercooling and a free-energy dissipation time scale that is related to the inverse half-width of the dynamic equilibrium structure factor to derive the kinetic coefficient explicitly. We contrast our result with previous linear analytic approximation and that obtained by MD simulation. We also used our theory to derive an inverse relation between the kinetic coefficient and the solid-liquid interfacial free-energy. The general methodology used here also applies to amplitude equations derived from the phase-field-crystal model, which only differ from GL theory by the choice of cubic and higher-order nonlinearities in the free-energy density.
     
+* **Semiclassical impurity scattering of matter wave solitons**  
+
+    One of the most fundamental differences between classical and quantum mechanics is observed in the particle tunneling through a localized potential: the former predicts a discontinuous transmission coefficient (T) as a function in incident velocity between one (complete penetration) and zero (complete reflection), while the later always changes smoothly as a wave nature. Here we report a systematic study of the quantum tunneling property for a bright soliton in ultracold atoms, which behaves as a classical particle (matter wave) in the limit of small (large) incident velocity. In the intermediate regime, the classical and quantum properties are combined via a finite (but not full) discontinuity in the tunneling transmission coefficient. We demonstrate that the formation of a localized bound state is essential to describe such inelastic collisions, showing a nontrivial nonlinear effect on the quantum transportation of a bright soliton.
     
+* **Quantum fluctuations of solitary excitations in Bose-Einstein condensate**
 
 
