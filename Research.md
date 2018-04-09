@@ -22,3 +22,14 @@ permalink: /Research/
 
 * **Statistical physics of energy expenditure in biology**
 * **Range expansion in ecology and evolution**
+
+
+### When I was a condensed matter theorist ###
+
+* **Ginzburg-Landau theory of bcc-liquid interfacial kinetics:**
+
+    A major determinant of the morphology of crystals grown from the melt far from local thermodynamic equilibrium is the solid-liquid interface kinetic coefficient. Extending the standard equilibrium Ginzburg-Landau framework, we incorporate a thermodynamic driving force proportional to the undercooling and a free-energy dissipation time scale that is related to the inverse half-width of the dynamic equilibrium structure factor to derive the kinetic coefficient explicitly. We contrast our result with previous linear analytic approximation and that obtained by MD simulation. We also used our theory to derive an inverse relation between the kinetic coefficient and the solid-liquid interfacial free-energy. The general methodology used here also applies to amplitude equations derived from the phase-field-crystal model, which only differ from GL theory by the choice of cubic and higher-order nonlinearities in the free-energy density.
+    
+    ![](https://github.com/chinghao0703/chinghao0703.github.io/blob/master/images/GLpaper.png)
+
+
