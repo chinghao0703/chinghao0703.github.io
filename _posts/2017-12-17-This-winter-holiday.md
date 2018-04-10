@@ -18,4 +18,4 @@ Though extremely unsettling,  I think I still learn something from this period 
 
 Here's the "Love, Christmas tree, and Ohio" holiday cookies I made with the awesome de Jong family from Uniontown, OH on the very first night of my winter holiday this year. The love, passion, and content this family demonstrate about life inadvertently rekindle my extinguished vim. Although wind is howling outside my window in this white-out midwest winter, I have this bit of warmth and energy to keep my sanity alive.
 
-![](https://bchwblog.files.wordpress.com/2017/12/img_2546.jpg?w=602)
+![](https://bchwblog.files.wordpress.com/2017/12/img_2546.jpg?w=301)
