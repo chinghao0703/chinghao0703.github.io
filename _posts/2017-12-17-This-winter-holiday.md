@@ -4,7 +4,7 @@ title: This Winter holiday
 ---
 
 
-Last December *I.* figured out the new year resolution for me-- resume blogging. My guess is given that I've constantly been ranting and raving about jibberish at him, he thought it'd be fun to see if I can do that in words (and in public). To be honest, I found this idea utterly fantastic, for it forces me to think deepr before uttering anything. On top of that, I also enjoy a place where we can have fun laughing at each others' seriousness.
+Last December *I.* figured out the new year resolution for me-- resume blogging. My guess is given that I've constantly been ranting and raving about jibberish at him, he thought it'd be fun to see if I can do that in words (and in public). To be honest, I found this idea utterly fantastic, for it forces me to think deepr before speaking of anything. On top of that, I also enjoy a place where we can have fun laughing at each others' seriousness.
 
 As it happens, many things didn't pan out in this depressing year of 2017 and here comes the end of it. Though I don't particularly enjoy blogging (explicitly) about my private matters, I'm going to give a bit of reflection on some of the predicaments I was compelled to deal with anyway. But here's the disclaimer. Since I'm still sorting things out, this is not gonna be a well-thought-out revelation-like epiphany. It is rather a collection of slightly curated contemplations that may not be pertinent or well-connected at all.
 
