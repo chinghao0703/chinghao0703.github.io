@@ -1,7 +1,7 @@
-----
+---
 layout: post
 title: This Winter holiday
-----
+---
 
 Last December *I.* figured out the new year resolution for me-- resume blogging. My guess is given that I've constantly been ranting and raving about jibberish at him, he thought it'd be fun to see if I can do that in words (and in public). To be honest, I found this idea utterly fantastic, for it forces me to cogitate on many things I would otherwise have considered as petty and inconsequential. On top of that, I also enjoy a place where we can have fun laughing at each others' seriousness.
  
