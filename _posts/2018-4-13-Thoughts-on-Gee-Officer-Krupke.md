@@ -3,13 +3,19 @@ layout: post
 title: Thoughts on "Gee, Officer Krupke"
 ---
 
-*Dear kindly Sergeant Krupke, 
-You gotta understand, 
-It's just our bringin' up-ke 
-That gets us out of hand. 
-Our mothers all are junkies, 
-Our fathers all are drunks. 
-Golly Moses, natcherly we're punks!* 
+*Dear kindly Sergeant Krupke,*
+
+*You gotta understand,*
+
+*It's just our bringin' up-ke*
+
+*That gets us out of hand.* 
+
+*Our mothers all are junkies,*
+
+*Our fathers all are drunks.*
+
+*Golly Moses, natcherly we're punks!* 
 
 This is an excerpt from the song, *Gee, Officer Krupke*, from *West Side Story*. It was sung by members of the Jets, street gangs in the Upper West Side in the late 1950s, to taunt the police officer named Krupke by attributing their life in the gang to their upbringing. 
 
