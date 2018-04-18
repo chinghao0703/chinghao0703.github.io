@@ -20,7 +20,7 @@ title: Thoughts on "Gee, Officer Krupke"
 This is an excerpt from the song, *Gee, Officer Krupke*, from *West Side Story*. It was sung by members of the Jets, street gangs in the Upper West Side in the late 1950s, to taunt the police officer named Krupke by attributing their life in the gang to their upbringing. 
 
 Well, I love this song, but at the same time, I do find the concept it implicitly implies mind-bugling. Setting the ontology of moral 
-philosophy aside, how do we associate a person’s behavior to the societal responsibility this person is expected take? How should we gauge the infringement of a moral or legal norm? What kind of transgression should the society impute guilt to the persons that are held 
+philosophy aside, how do we associate a person’s behavior to the societal responsibility this person is expected to take? How should we gauge the infringement of a moral or legal norm? What kind of transgression should the society impute guilt to the persons that are held 
 accountable? 
 
 I have no clear answer to these questions, but I do think they all stem from the conflict between the societal expectations based on the 
