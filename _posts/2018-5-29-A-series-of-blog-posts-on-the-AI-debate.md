@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Preamble to a series of blog posts on the AI debate
+title: A series of blog posts on the AI debate
 ---
 
 ## Preamble
