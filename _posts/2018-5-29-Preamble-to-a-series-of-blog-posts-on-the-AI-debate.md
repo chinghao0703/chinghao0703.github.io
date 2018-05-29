@@ -3,9 +3,13 @@ layout: post
 title: Preamble to a series of blog posts on the AI debate
 ---
 
-**Preamble** 
+## Preamble
 
-I recently finished reading [Norbert Wiener’s](https://en.wikipedia.org/wiki/Norbert_Wiener) incredible book ‘[Cybernetics](https://www.amazon.com/Cybernetics-Second-Control-Communication-Machine/dp/026273009X).’ Interestingly, soon after that, Pankaj (my advisor) sent me an [inspirational article](https://medium.com/@mijordan3/artificial-intelligence-the-revolution-hasnt-happened-yet-5e1d5812e1e7) by [Michael I. Jordan](https://en.wikipedia.org/wiki/Michael_I._Jordan) where he alerted the misuse of ‘AI’ as a placeholder nomenclature moving forward both in the academia and in public. Therein, Jordan referenced John McCarthy’s provision of intelligent systems based on their ties to logic as well as his attempt to sideline the intellectual field known as ‘cybernetics,’ a term Wiener coined in 1948 to refer to “*the scientific study of control and communication in the animal and machine.*” As Jordan pointed out, 
+I recently finished reading [Norbert Wiener’s](https://en.wikipedia.org/wiki/Norbert_Wiener) incredible book ‘[Cybernetics](https://www.amazon.com/Cybernetics-Second-Control-Communication-Machine/dp/026273009X).’ Interestingly, soon after that, Pankaj (my advisor) sent me an [inspirational article](https://medium.com/@mijordan3/artificial-intelligence-the-revolution-hasnt-happened-yet-5e1d5812e1e7) by [Michael I. Jordan](https://en.wikipedia.org/wiki/Michael_I._Jordan) where he alerted the misuse of ‘AI’ as a placeholder nomenclature moving forward both in the academia and in public. Therein, Jordan referenced John McCarthy’s provision of intelligent systems based on their ties to logic as well as his attempt to sideline the intellectual field known as ‘cybernetics,’ a term Wiener coined in 1948 to refer to 
+
+> the scientific study of control and communication in the animal and machine. 
+
+As Jordan pointed out, 
 
 > In an interesting reversal, it is Wiener’s intellectual agenda that has come to dominate in the current era under the banner of McCarthy’s terminology.
 
