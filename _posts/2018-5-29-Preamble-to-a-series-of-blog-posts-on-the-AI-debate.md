@@ -3,15 +3,15 @@ layout: post
 title: Preamble to a series of blog posts on the AI debate
 ---
 
-Preamble 
+**Preamble** 
 
 I recently finished reading [Norbert Wiener’s](https://en.wikipedia.org/wiki/Norbert_Wiener) incredible book ‘[Cybernetics](https://www.amazon.com/Cybernetics-Second-Control-Communication-Machine/dp/026273009X).’ Interestingly, soon after that, Pankaj (my advisor) sent me an [inspirational article](https://medium.com/@mijordan3/artificial-intelligence-the-revolution-hasnt-happened-yet-5e1d5812e1e7) by [Michael I. Jordan](https://en.wikipedia.org/wiki/Michael_I._Jordan) where he alerted the misuse of ‘AI’ as a placeholder nomenclature moving forward both in the academia and in public. Therein, Jordan referenced John McCarthy’s provision of intelligent systems based on their ties to logic as well as his attempt to sideline the intellectual field known as ‘cybernetics,’ a term Wiener coined in 1948 to refer to “*the scientific study of control and communication in the animal and machine.*” As Jordan pointed out, 
 
-“*In an interesting reversal, it is Wiener’s intellectual agenda that has come to dominate in the current era under the banner of McCarthy’s terminology.*"
+> In an interesting reversal, it is Wiener’s intellectual agenda that has come to dominate in the current era under the banner of McCarthy’s terminology.
 
 and 
 
-"*The confluence of ideas and technology trends has been rebranded as ‘AI’ over the past few years. This rebranding is worthy of some scrutiny.*"
+> The confluence of ideas and technology trends has been rebranded as ‘AI’ over the past few years. This rebranding is worthy of some scrutiny.
 
 A public debate on the narrative that we’re witnessing an emergent silicon-based intelligence that rivals and challenges our intellectual superiority, mostly gushed about by befuddled academicians and purposeful technocrats and venture capitalists, deems necessary. As such, I’d like to blog about my take on this matter. However, instead of getting right to this AI debate, I’d like to focus first on some marginal yet mind-boggling points that I keep getting stumbled upon by whenever I undertake to form my opinion. Here’s the first one—neural mechanism of idea formation. 
 
