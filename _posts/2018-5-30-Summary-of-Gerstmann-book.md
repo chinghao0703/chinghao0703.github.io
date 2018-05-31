@@ -86,7 +86,7 @@ In the Obergefell case, justice Roberts cited several authoritative dictionaries
 
 1.    The right to marry is a primary right?
 
-  +    The right to marry is a derivative of reproductive right ignores the development of both sets of rights. In *Meyer v. Nebraska (1923)*, the justice averred that marriage was “without a doubt” among the liberties protected by the Fourteenth Amendment. In *Skinner v. Oklahoma (1942)*, the Court explicitly expounded that “*marriage and procreation are fundamental to the very existence and the survival of race*.”
+  .    The right to marry is a derivative of reproductive right ignores the development of both sets of rights. In *Meyer v. Nebraska (1923)*, the justice averred that marriage was “without a doubt” among the liberties protected by the Fourteenth Amendment. In *Skinner v. Oklahoma (1942)*, the Court explicitly expounded that “*marriage and procreation are fundamental to the very existence and the survival of race*.”
   
   +     Justice Marshall: Marriage is *“essential to the orderly pursuit of happiness by free men,” “the most important relationship in life,” an association that promotes “bilateral loyalty”*, and *“among the personal decisions protected by the right to privacy”*.
   
