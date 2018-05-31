@@ -84,30 +84,30 @@ In the Obergefell case, justice Roberts cited several authoritative dictionaries
 
 3.    Marriage is, by definition, dual-gendered.
 
-•    Why these arguments cannot survive analytic scrutiny?
+  *    Why these arguments cannot survive analytic scrutiny?
 
 1.    The right to marry is a primary right?
 
   .    The right to marry is a derivative of reproductive right ignores the development of both sets of rights. In *Meyer v. Nebraska (1923)*, the justice averred that marriage was “without a doubt” among the liberties protected by the Fourteenth Amendment. In *Skinner v. Oklahoma (1942)*, the Court explicitly expounded that “*marriage and procreation are fundamental to the very existence and the survival of race*.”
   
-•     Justice Marshall: Marriage is 
+  *    Justice Marshall: Marriage is 
   >essential to the orderly pursuit of happiness by free men,” “the most important relationship in life,” an association that promotes “bilateral loyalty”*, and *“among the personal decisions protected by the right to privacy.
   
-•    Marriage is not a derivative of the right to bear children and to raise them in a traditional family is delineated in Turner, which ruled that felons have their right to marry, even though they’re serving their sentence. 
+  *    Marriage is not a derivative of the right to bear children and to raise them in a traditional family is delineated in Turner, which ruled that felons have their right to marry, even though they’re serving their sentence. 
   
 2.    Children as the Sine Qua No of marriage?
 
-•    Justice Alito’s dissent in Obergefell endorsed such assertion: 
+  *    Justice Alito’s dissent in Obergefell endorsed such assertion: 
   
   >[Kennedy’s] understanding of marriage, which focus almost solely on the happiness of persons who choose to marry, is shared by many people today, but it is not the traditional one. For millennia, marriage was inextricably linked to the one thing that only an opposite-sex couple can do: procreate.
   
-•    Many dissenting arguments have made up standards out of thin air. For example, it is nonsense that state would allow incestuous marriage as long as they cannot produce children and then tell same-sex couples that they cannot get married because they cannot have children.
+  *    Many dissenting arguments have made up standards out of thin air. For example, it is nonsense that state would allow incestuous marriage as long as they cannot produce children and then tell same-sex couples that they cannot get married because they cannot have children.
   
 •    The legal provision cannot justify allowing only dual-gendered couples to marry, as it is the result of the fact that only dual-gendered couples are allowed to marry. The argument that only dual-gendered couples are allowed to marry because only them can have children is a tautology.
   
 3.    Marriage as dual-gendered by definition?
 
-•    Mark Strasser
+  *    Mark Strasser
   
   > The argument is fallacious insofar as it implies that the legislature is itself not responsible for the legal definition of marriage or insofar as it implies that definitions can escape judicial scrutiny. (Strasser, 1995)
   
@@ -166,15 +166,15 @@ In the Obergefell case, justice Roberts cited several authoritative dictionaries
 
 4.    The Court has said that the delineation of fundamental rights is a matter of “reasoned judgment.”
 
-•    *Lochner v. New York (1905)*: The Court ruled that New York’s regulation of the working hours of bakers was not a justifiable restriction on the right to freedom of contract under the Fourteenth Amendment’s guarantee of liberty.
+  *    *Lochner v. New York (1905)*: The Court ruled that New York’s regulation of the working hours of bakers was not a justifiable restriction on the right to freedom of contract under the Fourteenth Amendment’s guarantee of liberty.
   
-•    What follows is the so-called Lochner era: from 1897 to 1937, the Court is said to have made it a common practice to “strike down economic regulations adopted by a State based on the Court’s own notions of the most appropriate means for the State to implement its considered policies,” by using its interpretation of substantive due process to strike down regulations on economic liberty and private contract rights. 
+  *    What follows is the so-called Lochner era: from 1897 to 1937, the Court is said to have made it a common practice to “strike down economic regulations adopted by a State based on the Court’s own notions of the most appropriate means for the State to implement its considered policies,” by using its interpretation of substantive due process to strike down regulations on economic liberty and private contract rights. 
   
-•    Fundamental rights are best understood as an essential part of equal protection clause rather than due process clause. One reason to argue that equal protection clause is most suitably interpreted as protecting certain fundamental rights is the crucial requirement that these rights be protected equally for all people.
+  *    Fundamental rights are best understood as an essential part of equal protection clause rather than due process clause. One reason to argue that equal protection clause is most suitably interpreted as protecting certain fundamental rights is the crucial requirement that these rights be protected equally for all people.
   
   *    Note that due process clause appears in both the Fifth Amendment and the Fourteenth Amendment. The Fifth Amendment says to the federal government that “no one shall be deprived of life, liberty or property without the due process of the law.” The Fourteenth Amendment, ratified in 1868, used the same sever words to describe the legal obligation of all states. 
   
-•    Nonetheless, in Obergefell, chief justice Kennedy chose to ground the fundamental right to marry in both the equal protection and due process clause:
+  *    Nonetheless, in Obergefell, chief justice Kennedy chose to ground the fundamental right to marry in both the equal protection and due process clause:
 
 The right of same-sex couple to marry that is part of the liberty promised by the Fourteenth Amendment is derived, too, from that Amendment’s guarantee of the equal protection of the laws. The Due Process Clause and the Equal Protection Clause are connected in a profound way, though they set forth independent principles. Rights implicit in liberty and rights secured by equal protection may rest on different precepts and are not always coextensive, yet, in some instances, each may be instructive as to the meaning and reach of the other. In any particular case, one Clause may be thought to capture the essence of the right more accurately and comprehensively, even as the two Clauses may converge in the identification and definition of the right. This interrelation of the two principles furthers our understanding of what freedom is and must become.
 
@@ -199,7 +199,7 @@ The concept of equal protection of laws inherently requires substantive content 
 
 1.    Precedent:
 
-  *     A pragmatic approach to equal protection must begin by recognizing that the Court will never be starting with a constitutional *tabula rasa*. 
+  *    A pragmatic approach to equal protection must begin by recognizing that the Court will never be starting with a constitutional *tabula rasa*. 
   
   *    The rule of *stare decisis*-- that the Court follows its own precedents-- is fundamental to the judicial process. 
   
@@ -211,7 +211,7 @@ The concept of equal protection of laws inherently requires substantive content 
 2.    Relation to other rights:
   *    Meaningful protection for established rights sometimes requires protections of other rights. For example: *NAACP v. Alabama (1958)* [freedom of association derived from First Amendment], *Shahar v. Bowers (1997)*[First Amendment, freedom of expression and religion]
   
-  *     Even if there were no precedents for a fundamental right to marriage, the freedom of expression, of association, and of parental control over the upbringing of children would strongly point to such a right. The Court has consistently protected decisions about we structure our family lives so the right to marry fits well with the rights discussed above.
+  *    Even if there were no precedents for a fundamental right to marriage, the freedom of expression, of association, and of parental control over the upbringing of children would strongly point to such a right. The Court has consistently protected decisions about we structure our family lives so the right to marry fits well with the rights discussed above.
   
 3.    Consideration of “Monopoly”:
 
@@ -232,7 +232,7 @@ The concept of equal protection of laws inherently requires substantive content 
   *    This doctrine is irrelevant in the case of same-sex marriage for this is never a political issue. For the reasons discussed above, it is apparent that a decision requires value judgment does not make it a political question; virtually all decisions regarding the Bill of Rights and other fundamental rights involve value judgment.
   
   
-  *     Public opposition cannot be an objection to judicial action; many of what are considered the finest moments of the Court came in the face of virulent popular objection. 
+  *    Public opposition cannot be an objection to judicial action; many of what are considered the finest moments of the Court came in the face of virulent popular objection. 
 
 ## (VIII) Democracy, Neutrality, and Consistency of Principles
 
