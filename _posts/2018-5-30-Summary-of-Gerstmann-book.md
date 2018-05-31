@@ -3,20 +3,21 @@ layout: post
 title: Summary of Even Gerstmann Book on the constitutionality of same-sex marriage
 ---
 
-## Preamble ##
+## Preamble
 
 Many people know that *I.* and I used to talk and argue about this matter, especially around the time that U.S. Supreme Court was convening for sessions on the *Obergefell v. Hodges* case. Throughout, we visited many precedent decisions made by the Court as well as those by the lower-courts that might have culminated in this high-profile lawsuit. Thanks to *I.*, I learned a great deal about the constitution of this nation and, more profoundly, the idiomatic antithesis of the *letter and spirit of the law*. That said, it wasn't until a few months ago did I find this book titled [*Same-Sex Marriage and the Constitution*](https://www.amazon.com/Same-Sex-Marriage-Constitution-Evan-Gerstmann/dp/1316626466/ref=sr_1_1?ie=UTF8&qid=1527734528&sr=8-1&keywords=same+sex+marriage+and+the+constitution) by [Evan Gerstmann](http://bellarmine.lmu.edu/politicalscience/faculty/?expert=evan.gerstmann) when I was working on my real job (a.k.a. theoretical scientist) in the law school library. Though I'm not a legal expert, I honestly found this tome inspirational. Therefore, I took the liberty to make a summary of this book which I'm sharing with the audience of this blog. Before you start to read, here's the disclaimer--  this summary excerpts heavily on this book and the Court decisions cited.  The itemized style is more own working, which only reflects the logic I found useful in comprehending many cases that are pertinent to this discussion but confounded by many arcane legal terms and maxim.  On top of that, I might have tucked away my take on this matter in whenever I deem appropriate. Therefore, you might want to take what I said with a grain of salt. Also, this summary **does not** indicate or represent the view of the author on the subject matter. 
 
 
-##(I) Introduction: key cases##
+## (I) Introduction: key cases
 •    In 1993, Hawaii supreme court ruled that the ban on same-sex marriage most likely violated the equal protection guarantee of the state constitution.
 •    In June 2003, US Supreme Court overruled **Bowes v Hardwick** and struck down Texas’ homosexuality sodomy statute in Lawernce v. Texas. 
 •    In 2004, highest court of MA ruled in Goodridge v. Department of Public Health that there’s no “constitutionally adequate reason for denying civil marriage to same-sex couples.” 
 •    In United States v. Windsor (2013), US supreme court struck down the Defense of Marriage Act (DOMA), which denied federal recognition of same-sex marriage.
 
-##(II) Reason and Prejudice##
-•    In the 14th amendment, there are two clauses pertinent to Obergefell v. Hodges: Equal protection of the law and due process of the law. Justice Kennedy wrote that they converge to define the contour of marriage equality and other rights. He also relied heavily on the notion of immutability--- that gays and lesbians can’t change their sexual orientation.
-•    The three-tier framework of equal protection: Supreme Court subjects laws under three level of scrutiny that varies in strictness. The stricter the scrutiny is, the more likely the supreme court is to strike down such law.
+## (II) Reason and Prejudice
+  *    In the 14th amendment, there are two clauses pertinent to Obergefell v. Hodges: Equal protection of the law and due process of the law. Justice Kennedy wrote that they converge to define the contour of marriage equality and other rights. He also relied heavily on the notion of immutability--- that gays and lesbians can’t change their sexual orientation.
+
+  * The three-tier framework of equal protection: Supreme Court subjects laws under three level of scrutiny that varies in strictness. The stricter the scrutiny is, the more likely the supreme court is to strike down such law.
 1.    Strict scrutiny: under this, a law will be struck down unless it is “narrowly tailored to further a compelling interest.”
 2.    Intermediate scrutiny: To withstand such scrutiny, a law “must serve important governmental objectives and must be substantially related to the achievement of such objective.”
 3.    Rational basis scrutiny: The challenged law must be rationally related to a legitimate governmental interest. 
@@ -29,7 +30,7 @@ In the Obergefell case, justice Roberts cited several authoritative dictionaries
 4.    Promoting an optimum environment for procreation and child rearing
 5.    Caution about changing an important institution
 
-##(III) Looking for stricter scrutiny ##
+## (III) Looking for stricter scrutiny 
 •    Can the court subject the laws that discriminate based on sexual orientation to heighten scrutiny based on the minority status of gays and lesbians (i.e., suspect class)? To qualify such heightened protection, gays and lesbians must establish the following:
 1.    They have suffered a history of discrimination
 2.    They are defined by an immutable characteristic
@@ -37,7 +38,7 @@ In the Obergefell case, justice Roberts cited several authoritative dictionaries
 4.    Homosexuality is a characteristic that does not bear upon their ability to contribute to society.
 •    In practice, this is hard to establish, especially the notion of “immutability” and “powerlessness”. In fact, the Supreme Court has not found any group to be a suspect class since after the mid-1970s. 
 
-##(IV) Fundamental right to marry##
+## (IV) Fundamental right to marry
 •    The Court has long held that Constitution protects numerous “fundamental rights” that are not explicitly stated therein; sometimes they are called “unenumerated” rights. 
 •    “Substantive due process”:  a principle in US Constitution that protects certain fundamental right from government interference, even if procedural protections are present or not explicitly mentioned elsewhere in the Constitution. 
 •    This principle was ushered into both state and federal judges since after the laissez-faire capitalism reached its zenith in the 1890s. 
@@ -46,7 +47,7 @@ In the Obergefell case, justice Roberts cited several authoritative dictionaries
 2.    Zablocki v. Redhail (1978): The Court held that Wisconsin Statutes §§ 245.10 (1), (4), (5) (1973) violated the Fourteenth Amendment Equal Protection Clause. Section 245.10 required noncustodial parents who were Wisconsin residents attempting to marry inside or outside Wisconsin to seek court order before receiving a marriage license. To obtain such order, non-custodial parents shall not be in arrears on their child support, and that the court has to believe that the child(ren) would not become the burden of the State.  [Fundamental right to marry]
 3.    Turner v. Safley (1987): The Court ruled that Missouri prison’s regulation that restricts inmates from getting married without permission violates their constitutional right to marry.
 
-##(V) Same-sex marriage and the fundamental right to marry##
+## (V) Same-sex marriage and the fundamental right to marry
 •    In the Obergefell dissent, Justice Roberts conceded that “There is no serious dispute that, under our precedents, the Constitution protects the right to marry and requires states to apply their marriage laws equally.” The question is, therefore, why same-sex marriage is not included in the fundamental right to marry? 
 •    Three explanation that have been proffered to exclude same-sex marriage:
 1.    Rather than being a primary right, marriage is merely a predicate of the right to procreate and raise children in a traditional family setting.
@@ -81,7 +82,7 @@ o    There is empirical evidence that polygamy is often harmful to women and chi
 3.    The fear that this right could open doors to the constitutionality of polygamy is over-exaggerated. 
 •    In gist: The central argument is that the constitution has, does, and should protect everyone’s right marry the person on his or her choice. Gays and lesbians are not asking for a special right, but a right that heterosexuals have long been granted and protected by the constitution: the freedom to marry. This allows gays and lesbians to frame their arguments in terms of equality instead of difference, in terms of aspiration instead of victimhood.  
 
-##(VI) Should court create new rights?##
+## (VI) Should court create new rights?
 •    Supreme Court justices have long been unable to articulate a consistent theory to explain which rights qualify as fundamental. Furthermore, they are unable to even to settle upon what part of the constitution they are ostensibly interpreting when they declare something to be a fundamental right. Sometimes the Court find fundamental right in the Due Process Clause of the Fourteenth Amendment, sometimes it finds them in the equal protection clause; sometimes it cannot agree upon the source.
 •    The Court has vacillated among at least four tests. Justices have asked:
 1.    Whether the law “is deeply rooted in this Nation’s history and tradition,” as they did in Moore.
@@ -101,7 +102,7 @@ The right of same-sex couple to marry that is part of the liberty promised by th
 The concept of equal protection of laws inherently requires substantive content to have meaning as a constitutional principle.
 •    Peter Weston has ably demonstrated that “equality” cannot have real meaning without a system of substantive right. Thus, while there’s virtual unanimity on the goal of legal equality, this goal cannot be pursued meaningfully without reference to some substantive values beyond those expressed in the text of the Constitution. However, some questions remain: Is it reasonable for this substantive content to include the right to marry? If so, should it be broad enough to include same-sex marriage? 
 
-##(VII) Identifying fundamental rights##
+## (VII) Identifying fundamental rights
 •    Continuing on the questions raised in the previous part, here’s one attempt to set forth a plausible account of what that interpretation might look like and whether it should include the fundamental right to marriage. Four factors are set out for identifying non-textual fundamental rights:
 1.    Precedent
 2.    Relation to existing established rights
@@ -132,6 +133,6 @@ o    The Court has elaborated a doctrine that nicely spelled out the factor dist
 o    This doctrine is irrelevant in the case of same-sex marriage for this is never a political issue. For the reasons discussed above, it is apparent that a decision requires value judgment does not make it a political question; virtually all decisions regarding the Bill of Rights and other fundamental rights involve value judgment.
 o    Public opposition cannot be an objection to judicial action; many of what are considered the finest moments of the Court came in the face of virulent popular objection. 
 
-## (VIII) Democracy, Neutrality, and Consistency of Principles##
+## (VIII) Democracy, Neutrality, and Consistency of Principles
 
-## (IX) Principles and Practicalities: The Road to Same-Sex Marriage ##
+## (IX) Principles and Practicalities: The Road to Same-Sex Marriage
