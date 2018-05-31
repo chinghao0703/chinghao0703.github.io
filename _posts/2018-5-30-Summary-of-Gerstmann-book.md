@@ -238,3 +238,14 @@ The concept of equal protection of laws inherently requires substantive content 
 ## (VIII) Democracy, Neutrality, and Consistency of Principles
 
 ## (IX) Principles and Practicalities: The Road to Same-Sex Marriage
+
+## Postamble
+
+*Obergefell v. Hodges (2015)*
+
+Argued April 28, 2015
+Decided June 26, 2015
+
+The Court holds that
+
+>The Fourteenth Amendment requires a State to license a marriage between two people of the same sex, and to recognize a marriage between two people of the same sex when their marriage was lawfully licensed and performed out-of-State. United States Court of Appeals for the Sixth Circuit reversed. *Baker v. Nelson* overturned.
