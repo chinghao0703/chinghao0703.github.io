@@ -11,11 +11,11 @@ Many people know that *I.* and I used to talk and argue about this matter, espec
 ## (I) Introduction: key cases
   *    In 1993, Hawaii supreme court ruled that the ban on same-sex marriage most likely violated the equal protection guarantee of the state constitution.
 
-  *    In June 2003, US Supreme Court overruled **Bowes v Hardwick** and struck down Texas’ homosexuality sodomy statute in Lawernce v. Texas. 
+  *    In June 2003, U.S. Supreme Court overruled *Bowes v Hardwick* and struck down Texas’ homosexuality sodomy statute in *Lawernce v. Texas (2003)*. 
 
   *    In 2004, highest court of MA ruled in Goodridge v. Department of Public Health that there’s no “constitutionally adequate reason for denying civil marriage to same-sex couples.” 
 
-  *    In United States v. Windsor (2013), US supreme court struck down the Defense of Marriage Act (DOMA), which denied federal recognition of same-sex marriage.
+  *    In *United States v. Windsor (2013)*, U.S. Supreme Court struck down the *Defense of Marriage Act (DOMA)*, which denied federal recognition of same-sex marriage.
 
 ## (II) Reason and Prejudice
   *    In the 14th amendment, there are two clauses pertinent to *Obergefell v. Hodges*: Equal protection of the law and due process of the law. Justice Kennedy wrote that they converge to define the contour of marriage equality and other rights. He also relied heavily on the notion of immutability--- that gays and lesbians can’t change their sexual orientation.
@@ -23,13 +23,15 @@ Many people know that *I.* and I used to talk and argue about this matter, espec
   * The three-tier framework of equal protection: Supreme Court subjects laws under three level of scrutiny that varies in strictness. The stricter the scrutiny is, the more likely the supreme court is to strike down such law.
   
 1.    **Strict scrutiny**: under this, a law will be struck down unless it is “*narrowly tailored to further a compelling interest*.”
+
 2.    **Intermediate scrutiny**: To withstand such scrutiny, a law “*must serve important governmental objectives and must be substantially related to the achievement of such objective*.”
+
 3.    **Rational basis scrutiny**: The challenged law must be rationally related to a legitimate governmental interest. 
 
   *    Reasons often cited to support heterosexual marriage:
   
 1.    Moral disapproval of homosexuality
-Bare decision to harm an unpopular group is not a rational basis for any law. Key cases that justice Kennedy drew upon: US v. Windsor, USDA v. Moreno. Indeed, none of the four states defending their various bans on homosexuality used any leverage by invoking moral disapproval. 
+Bare decision to harm an unpopular group is not a rational basis for any law. Key cases that justice Kennedy drew upon: *U.S. v. Windsor*, *USDA v. Moreno*. Indeed, none of the four states defending their various bans on homosexuality used any leverage by invoking moral disapproval. 
 
 2.    Definition, tradition, and religion:
 In the Obergefell case, justice Roberts cited several authoritative dictionaries on the definition of marriage to argue that marriage is “by definition” dual-gendered. Dissenting arguments in the category has intuitive appeal to many people, but none of which qualifies itself as a rational reasoning to support the monopoly of marriage to heterosexual couples. Definition is arbitrary, and it should be interpreted not purely based on the literal meaning of the words chosen but the spirit it embodies. Respect for tradition is a reason for caution, not stasis. Respect of religion should be applied equally, not just to those who are against same-sex marriage. 
@@ -88,22 +90,24 @@ In the Obergefell case, justice Roberts cited several authoritative dictionaries
 
   .    The right to marry is a derivative of reproductive right ignores the development of both sets of rights. In *Meyer v. Nebraska (1923)*, the justice averred that marriage was “without a doubt” among the liberties protected by the Fourteenth Amendment. In *Skinner v. Oklahoma (1942)*, the Court explicitly expounded that “*marriage and procreation are fundamental to the very existence and the survival of race*.”
   
-  +     Justice Marshall: Marriage is *“essential to the orderly pursuit of happiness by free men,” “the most important relationship in life,” an association that promotes “bilateral loyalty”*, and *“among the personal decisions protected by the right to privacy”*.
+  *     Justice Marshall: Marriage is *“essential to the orderly pursuit of happiness by free men,” “the most important relationship in life,” an association that promotes “bilateral loyalty”*, and *“among the personal decisions protected by the right to privacy”*.
   
-  +     Marriage is not a derivative of the right to bear children and to raise them in a traditional family is delineated in Turner, which ruled that felons have their right to marry, even though they’re serving their sentence. 
+  *     Marriage is not a derivative of the right to bear children and to raise them in a traditional family is delineated in Turner, which ruled that felons have their right to marry, even though they’re serving their sentence. 
   
 2.    Children as the Sine Qua No of marriage?
 
-  +    Justice Alito’s dissent in Obergefell endorsed such assertion: 
+  *    Justice Alito’s dissent in Obergefell endorsed such assertion: 
+  
   >[Kennedy’s] understanding of marriage, which focus almost solely on the happiness of persons who choose to marry, is shared by many people today, but it is not the traditional one. For millennia, marriage was inextricably linked to the one thing that only an opposite-sex couple can do: procreate.
   
-  +     Many dissenting arguments have made up standards out of thin air. For example, it is nonsense that state would allow incestuous marriage as long as they cannot produce children and then tell same-sex couples that they cannot get married because they cannot have children.
+  *     Many dissenting arguments have made up standards out of thin air. For example, it is nonsense that state would allow incestuous marriage as long as they cannot produce children and then tell same-sex couples that they cannot get married because they cannot have children.
   
-  +    The legal provision cannot justify allowing only dual-gendered couples to marry, as it is the result of the fact that only dual-gendered couples are allowed to marry. The argument that only dual-gendered couples are allowed to marry because only them can have children is a tautology.
+  *    The legal provision cannot justify allowing only dual-gendered couples to marry, as it is the result of the fact that only dual-gendered couples are allowed to marry. The argument that only dual-gendered couples are allowed to marry because only them can have children is a tautology.
   
 3.    Marriage as dual-gendered by definition?
 
-  +     Mark Strasser
+  *     Mark Strasser
+  
   > The argument is fallacious insofar as it implies that the legislature is itself not responsible for the legal definition of marriage or insofar as it implies that definitions can escape judicial scrutiny. (Strasser, 1995)
   
   
@@ -126,14 +130,14 @@ In the Obergefell case, justice Roberts cited several authoritative dictionaries
 
   *    The Court majority did not see its decision as extending to polygamy.
   
-  +    Reason 2 is certainly not the issue for it is concerning the two-person union.
-  +    Reason 1 doesn’t apply either. The ban on same-sex marriage violated the autonomy of gays and lesbians by preventing them from getting married at all. The Obergefell majority specifically cited the immutable nature of sexual orientation: 
+  *    Reason 2 is certainly not the issue for it is concerning the two-person union.
+  *    Reason 1 doesn’t apply either. The ban on same-sex marriage violated the autonomy of gays and lesbians by preventing them from getting married at all. The Obergefell majority specifically cited the immutable nature of sexual orientation: 
   
   >Far from seeking to devalue marriage, the petitioners seek it for themselves because of their respect—and need—for its privileges and responsibilities. And their immutable nature dictates that same-sex marriage is their only real path to this profound commitment.
   
   Telling gays and lesbians that they had a right to enter a loveless heterosexual marriage does not further or respect their autonomy. On the other hand, there’s no evidence that there exists an innate orientation for polygamy. 
   
-  +    There is empirical evidence that polygamy is often harmful to women and children, see, for example, one of the most authoritative statistical studies conducted by Dr. Rose McDermott of Brown University at the request of the attorney general of British Columbia in Canada. This establishes that Obergefell decision is extremely unlikely to apply to polygamy under Reason 3 and 4. 
+  *    There is empirical evidence that polygamy is often harmful to women and children, see, for example, one of the most authoritative statistical studies conducted by Dr. Rose McDermott of Brown University at the request of the attorney general of British Columbia in Canada. This establishes that Obergefell decision is extremely unlikely to apply to polygamy under Reason 3 and 4. 
   
   
   *    The argument presented in this part is nothing more than straightforward conclusions that logically stem from the constitutional protection on the fundamental right to marry. To recap,
@@ -194,12 +198,12 @@ The concept of equal protection of laws inherently requires substantive content 
 
 1.    Precedent:
 
-  +     A pragmatic approach to equal protection must begin by recognizing that the Court will never be starting with a constitutional *tabula rasa*. 
+  *     A pragmatic approach to equal protection must begin by recognizing that the Court will never be starting with a constitutional *tabula rasa*. 
   
-  +    The rule of *stare decisis*-- that the Court follows its own precedents-- is fundamental to the judicial process. 
+  *    The rule of *stare decisis*-- that the Court follows its own precedents-- is fundamental to the judicial process. 
   
-  +    Keith Whittington: “judges should not assume their infallibility.”
-  +    The Court also spelled out four “prudential and pragmatic” reasons for which it might ignore *stare decisis*:
+  *    Keith Whittington: “judges should not assume their infallibility.”
+  *    The Court also spelled out four “prudential and pragmatic” reasons for which it might ignore *stare decisis*:
 
 >We may ask whether the rule has proven to be intolerable simply in defying practical workability, whether the rule is subject to a kind of reliance that would lend a special hardship to the consequences of overruling and add inequity to the cost of repudiation, whether related principles of law have so far developed as to have left the old rule no more than a remnant of abandoned doctrine or whether facts have so changed, or come to be seen so differently, as to have robbed the old rule of significant application or justification.
 
