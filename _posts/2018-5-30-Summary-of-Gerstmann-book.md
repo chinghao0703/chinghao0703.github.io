@@ -10,8 +10,11 @@ Many people know that *I.* and I used to talk and argue about this matter, espec
 
 ## (I) Introduction: key cases
 •    In 1993, Hawaii supreme court ruled that the ban on same-sex marriage most likely violated the equal protection guarantee of the state constitution.
+
 •    In June 2003, US Supreme Court overruled **Bowes v Hardwick** and struck down Texas’ homosexuality sodomy statute in Lawernce v. Texas. 
+
 •    In 2004, highest court of MA ruled in Goodridge v. Department of Public Health that there’s no “constitutionally adequate reason for denying civil marriage to same-sex couples.” 
+
 •    In United States v. Windsor (2013), US supreme court struck down the Defense of Marriage Act (DOMA), which denied federal recognition of same-sex marriage.
 
 ## (II) Reason and Prejudice
