@@ -237,6 +237,11 @@ The concept of equal protection of laws inherently requires substantive content 
 
 ## (VIII) Democracy, Neutrality, and Consistency of Principles
 
+  *    A major theme in the dissenting opinion in Obergefell was the anti-democratic nature of this decision. Roberts opinioned: “*The courts accumulation of power does not occur in a vacuum. It comes at the expense of the people and they know it.”* Justice Scalia joined:
+
+>Today’s decree says that my Ruler, and the Ruler of 320 million Americans coast-to-coast, is a majority of the nine lawyers on the Supreme Court. The opinion in these cases in the furthest extension in fact – and the furthest extension one can even imagine – of the Court’s claimed power to create “Liberties” the Constitution and its Amendment neglect to mention. This practice of constitutional revision by an unelected committee of nine, always accompanied (as it is today) by extravagant praise of liberty, robs the People of the most liberty they asserted in the Declaration of Independence and won in  the Revolution of 1776: the freedom to govern themselves.
+
+
 ## (IX) Principles and Practicalities: The Road to Same-Sex Marriage
 
 ## Postamble
@@ -246,6 +251,6 @@ The concept of equal protection of laws inherently requires substantive content 
 Argued April 28, 2015
 Decided June 26, 2015
 
-The Court holds that
+The Court held that:
 
 >The Fourteenth Amendment requires a State to license a marriage between two people of the same sex, and to recognize a marriage between two people of the same sex when their marriage was lawfully licensed and performed out-of-State. United States Court of Appeals for the Sixth Circuit reversed. *Baker v. Nelson* overturned.
