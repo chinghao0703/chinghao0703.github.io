@@ -11,6 +11,10 @@ I'm a physics Ph.D. student working with [Pankaj Mehta](https://physics.bu.edu/~
 
 ### News ###
 
+**06/07/2018**
+New manuscript titled *Pinned, locked, pushed, and pulled traveling waves in structured environments* is on [arXiv:1806.02480](https://arxiv.org/abs/1806.02480) and [bioRxiv](https://doi.org/10.1101/341222) now!
+
+**03/23/2018**
 A bunch of physicists including myself just finished a review titled "*A high-bias, low-variance introduction to Machine Learning for physicists*". We also made 20 Jupyter notebooks to showcase the ideas introduced in the main text. Check out [arXiv:1803.08823](https://arxiv.org/abs/1803.08823) and the accompanying [website](http://physics.bu.edu/~pankajm/MLnotebooks.html) for more details. Feel free to submit your comments, suggestions, or criticisms [here](https://docs.google.com/forms/d/e/1FAIpQLSd_ZqSuNXB5wTuLzYkXIOOBkmbMuSb7h4jia5koLg5aawq5Qw/viewform).
 
 ### Research ###
