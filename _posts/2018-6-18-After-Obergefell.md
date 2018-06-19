@@ -13,7 +13,7 @@ Second, it tacks on an Equal Protection analysis to reason that by not extending
 
   > It is demeaning to lock same-sex couples out of a central institution of the Nation’s society, for they too many aspire to the transcendent purposes of marriage.
 
-Such fundamental right argument is perhaps the part of the opinion that have elicited public strictures. People criticize the first rationale since decreeing something as a fundamental right is sometimes unfavorable under the Due Process jurisprudence. Indeed, in *Washington v. Glucksberg*, the Court said that fundamental rights should be defined in a very careful and narrow manner:
+Such fundamental right argument is perhaps the part of the opinion that have elicited public strictures. People criticize the first rationale since decreeing something as a fundamental right is sometimes unfavorable under the Due Process jurisprudence. Indeed, in [*Washington v. Glucksberg*](https://en.wikipedia.org/wiki/Washington_v._Glucksberg), the Court said that fundamental rights should be defined in a very careful and narrow manner:
 
   > As we stated recently in Flores, the Fourteenth Amendment "forbids the government to infringe ... 'fundamental' liberty interests at all, no matter what process is provided, unless the infringement is narrowly tailored to serve a compelling state interest." 507 U. S., at 302.
 
