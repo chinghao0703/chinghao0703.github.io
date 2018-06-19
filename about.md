@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-![](https://github.com/chinghao0703/chinghao0703.github.io/blob/master/images/IMG_2857.jpg)
 
 I'm a physics Ph.D. student working with [Pankaj Mehta](https://physics.bu.edu/~pankajm/) on problems that lie on the interface between physics, biology, computer science, and machine learning. Here you can find my [CV](https://www.dropbox.com/s/0fl1yhye8zwfcjq/CHW_CV.pdf?dl=0). Also check out my GitHub [repository](https://github.com/chinghao0703) for some eclectic codes I wrote. I hope to fully migrate my [website](https://sites.google.com/site/chinghaowang/) from Google to here by this May.
 
@@ -12,10 +11,10 @@ I'm a physics Ph.D. student working with [Pankaj Mehta](https://physics.bu.edu/~
 ### News ###
 
 **06/07/2018**
-New manuscript titled *Pinned, locked, pushed, and pulled traveling waves in structured environments* is on [arXiv:1806.02480](https://arxiv.org/abs/1806.02480) and [bioRxiv](https://doi.org/10.1101/341222) now!
+New manuscript titled "*Pinned, locked, pushed, and pulled traveling waves in structured environments*" is on [arXiv:1806.02480](https://arxiv.org/abs/1806.02480) and [bioRxiv](https://doi.org/10.1101/341222) now!
 
 **03/23/2018**
-A bunch of physicists including myself just finished a review titled "*A high-bias, low-variance introduction to Machine Learning for physicists*". We also made 20 Jupyter notebooks to showcase the ideas introduced in the main text. Check out [arXiv:1803.08823](https://arxiv.org/abs/1803.08823) and the accompanying [website](http://physics.bu.edu/~pankajm/MLnotebooks.html) for more details. Feel free to submit your comments, suggestions, or criticisms [here](https://docs.google.com/forms/d/e/1FAIpQLSd_ZqSuNXB5wTuLzYkXIOOBkmbMuSb7h4jia5koLg5aawq5Qw/viewform).
+A bunch of physicists including myself just finished a review titled "*A high-bias, low-variance introduction to Machine Learning for physicists*." We also made 20 [Jupyter](http://jupyter.org/) notebooks to showcase the ideas introduced in the main text. Check out [arXiv:1803.08823](https://arxiv.org/abs/1803.08823) and the accompanying [website](http://physics.bu.edu/~pankajm/MLnotebooks.html) for more details. Feel free to submit your comments, suggestions, or criticisms [here](https://docs.google.com/forms/d/e/1FAIpQLSd_ZqSuNXB5wTuLzYkXIOOBkmbMuSb7h4jia5koLg5aawq5Qw/viewform).
 
 ### Research ###
 
