@@ -85,7 +85,7 @@ Now having defined QP, I want to switch gear to talk about another concept that 
 
 Physicists are not that unfamiliar with the concept of duality (e.g.  AdS/CFT correspondence or gauge/gravity duality). Like many such problems, duality allows us to map a problem to its dual where solutions are more easily found. Convex duality is no exception! Recall that we just stated one simple but powerful attribute of convex problems: every local minimizer is a global minimizer. One intuitive application lies in finding the set of parameters (e.g. coupling constants) that gives rise to the ground state of a physical system. If such problem is convex, this property immediately implies that no matter what dimensionality the problem is defined in, one would never get stuck by local minima or saddales (since there's no such thing at all!) In the language of convex optimization, one similar property is: **the Lagrange dual of an optimization problem is alway convex**! As one shall see, duality also allows us to explore the property of solutions even without solving the problem itself!
 
-### Lagrange dual ###
+### Lagrange dual and the dual problem ###
 
 Consider a general optimization problem defined above and restated here which we call the **primal problem** (note that $f$ need not be convex)
 
@@ -128,4 +128,18 @@ $$
 & &u\ge 0\\
 \end{aligned}
 \end{equation}$$
+
+
+Similarly, denote $g^\star$ as dual optimal (i.e. solution to the above dual problem). From the above, we have a very important property called **weak duality**: $f^\star \ge g^\star$. Note that since $g$ is concave in $(u,v)$ and $u\ge 0$ is an affine (therefore convex) constraint, the dual problem is a concave maximization probelm (hence a convex optimization problem). On ther other hand, if the ineqality turns out to be an equality (i.e. $f^\star = g^\star$), we say **strong duality** holds. 
+
+A sufficient condition for strong duality is the **Slater's condition**: if the primal problem is convex, and there exists at least one strictly feasible $x\in\mathbb{R}^n$, namely, $\exists x\in\mathbb{R}^n $  s.t.
+$$
+\begin{equation}
+&h_i(x) < 0, \; i = 1, \ldots, m\\
+&& l_j(x) =0, \; j=1, \ldots, r,
+\end{equation}
+$$
+
+then ***strong duality holds**. As one shall see, this condition will establish the necessity and sufficiency of primal-dual optimality through the KKT conditions.
+
 
