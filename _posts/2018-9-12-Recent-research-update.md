@@ -104,9 +104,28 @@ $$
 
 We define the Lagrangian as 
 
-$$L(x,u,v) =  f(x) + \sum_{i=1}^m u_i h_i(x) + \sum_{j=1}^r v_jl_j(x)$$, 
-where $u\in\mathbb{R}^m, v\in\mathbb{R}^r$, with $u\ge 0$. One can show that for all $u\ge 0$ and $v$, $L(x,u,v)\le f(x)$ by applying the non-positivity of $h_i$ and zeroness of $j_j$. Let $C$ be the primal feasible set (i.e. the set of $x$ where contraints stated above are satisfied) and $f^{\star}$ be the primal optimal value (i.e. solution to the primal problem),
+$$
+\begin{equation}L(x,u,v) =  f(x) + \sum_{i=1}^m u_i h_i(x) + \sum_{j=1}^r v_jl_j(x),
+\end{equation}
+$$
 
-$$f^{\star}  \ge \text{min}_{x\in C} L(x,u,v)\ge \text{min}_x L(x,u,v)\equiv g(u,v)$$.
+where $u\in\mathbb{R}^m, v\in\mathbb{R}^r$, with $u\ge 0$. One can show that for all $u\ge 0$ and $v$, $L(x,u,v)\le f(x)$ by applying the non-positivity of $h_i$ and zeroness of $l_j$. Let $C$ be the primal feasible set (i.e. the set of $x$ where contraints stated above are satisfied and $f^{\star}$ be the primal optimal value (i.e. solution to the primal problem), namely,
 
-This motivates the definition of the **Lagrange dual function**, $g(u,v)\equiv \min_{x} L(x,u,v)$, which gives the lower bound on primal optimal $f^{\star}$ for all $u\ge 0$ and $v$, called **dual feasible** $u, v$.
+$$
+\begin{equation}
+f^{\star}  \ge \min_{x\in C} L(x,u,v)\ge \min_x L(x,u,v)\equiv g(u,v).
+\end{equation}
+$$
+
+This motivates the definition of the **Lagrange dual function**, $g(u,v)\equiv \min_{x} L(x,u,v)$, which gives the lower bound on primal optimal $f^{\star}$ for all $u\ge 0$ and $v$, called **dual feasible** $u, v$. Hence, the tightest lower bound we can get is the maximum of the Lagrange dual, which defines the **dual problem**:
+
+$$ 
+\begin{equation}
+\begin{aligned}
+& \underset{u,v}{\text{max}}
+& & g(u,v) \\
+& \text{subject to}
+& &u\ge 0\\
+\end{aligned}
+\end{equation}$$
+
