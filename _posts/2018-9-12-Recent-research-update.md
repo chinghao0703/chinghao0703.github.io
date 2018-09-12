@@ -135,8 +135,10 @@ Similarly, denote $g^\star$ as dual optimal (i.e. solution to the above dual pro
 A sufficient condition for strong duality is the **Slater's condition**: if the primal problem is convex, and there exists at least one strictly feasible $x\in\mathbb{R}^n$, namely, $\exists x\in\mathbb{R}^n $  s.t.
 $$
 \begin{equation}
+\begin{aligned}
 &h_i(x) < 0, \; i = 1, \ldots, m\\
 & l_j(x) =0, \; j=1, \ldots, r,
+\end{alighed}
 \end{equation}
 $$
 
