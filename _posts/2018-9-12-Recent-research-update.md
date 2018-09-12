@@ -85,4 +85,28 @@ Now having defined QP, I want to switch gear to talk about another concept that 
 
 Physicists are not that unfamiliar with the concept of duality (e.g.  AdS/CFT correspondence or gauge/gravity duality). Like many such problems, duality allows us to map a problem to its dual where solutions are more easily found. Convex duality is no exception! Recall that we just stated one simple but powerful attribute of convex problems: every local minimizer is a global minimizer. One intuitive application lies in finding the set of parameters (e.g. coupling constants) that gives rise to the ground state of a physical system. If such problem is convex, this property immediately implies that no matter what dimensionality the problem is defined in, one would never get stuck by local minima or saddales (since there's no such thing at all!) In the language of convex optimization, one similar property is: **the Lagrange dual of an optimization problem is alway convex**! As one shall see, duality also allows us to explore the property of solutions even without solving the problem itself!
 
-### Lagrange dual
+### Lagrange dual ###
+
+Consider a general optimization problem defined above and restated here which we call the **primal problem** (note that $f$ need not be convex)
+
+
+$$ 
+\begin{equation}
+\begin{aligned}
+& \underset{x}{\text{min}}
+& & f(x) \\
+& \text{subject to}
+& & h_i(x) \leq 0, \; i = 1, \ldots, m\\
+&&& l_j(x) =0, \; j=1, \ldots, r,
+\end{aligned}
+\end{equation}$$
+
+
+We define the Lagrangian as 
+
+$$L(x,u,v) =  f(x) + \sum_{i=1}^m u_i h_i(x) + \sum_{j=1}^r v_jl_j(x)$$, 
+where $u\in\mathbb{R}^m, v\in\mathbb{R}^r$, with $u\ge 0$. One can show that for all $u\ge 0$ and $v$, $L(x,u,v)\le f(x)$ by applying the non-positivity of $h_i$ and zeroness of $j_j$. Let $C$ be the primal feasible set (i.e. the set of $x$ where contraints stated above are satisfied) and $f^{\star}$ be the primal optimal value (i.e. solution to the primal problem),
+
+$$f^{\star}  \ge \text{min}_{x\in C} L(x,u,v)\ge \text{min}_x L(x,u,v)\equiv g(u,v)$$.
+
+This motivates the definition of the **Lagrange dual function**, $g(u,v)\equiv \min_{x} L(x,u,v)$, which gives the lower bound on primal optimal $f^{\star}$ for all $u\ge 0$ and $v$, called **dual feasible** $u, v$.
