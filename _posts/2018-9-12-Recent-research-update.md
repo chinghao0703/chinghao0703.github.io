@@ -24,7 +24,7 @@ $$
 \end{aligned}
 \end{equation}$$
 
-where $D = \text{dom}(f)\cap\bigcap_{i=1}^m \text{dom}(h_i)\bigcap_{j=1}^r \text{dom}(l_j)$. The function $f$ is called the objective function while $h_i$ and $l_j$ are the constraints. We call a problem convex when $f$ and $h_i$ are all convex functions of $x$ and $l_j$ is an affine (therefore convex) function of $x$. In this paper, we're concerned with a particular type of convex optimization called the (convex) quadratic programming (QP) where $f(x)=c^T x+ \frac{1}{2}x^T Q x$ with $Q\succeq 0$ being a positive semi-definite matrix. Formally, a convex QP is defined as:
+where $D = \text{dom}(f)\cap\bigcap_{i=1}^m \text{dom}(h_i)\cap\bigcap_{j=1}^r \text{dom}(l_j)$. The function $f$ is called the objective function while $h_i$ and $l_j$ are the constraints. We call a problem convex when $f$ and $h_i$ are all convex functions of $x$ and $l_j$ is an affine (therefore convex) function of $x$. In this paper, we're concerned with a particular type of convex optimization called the (convex) quadratic programming (QP) where $f(x)=c^T x+ \frac{1}{2}x^T Q x$ with $Q\succeq 0$ being a positive semi-definite matrix. Formally, a convex QP is defined as:
 
 $$ 
 \begin{equation}
