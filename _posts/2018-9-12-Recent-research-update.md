@@ -147,8 +147,8 @@ then **strong duality holds**. As one shall see, this condition will establish t
 
 Let's recap:
   * Dual problem is always convex even if primal is not.
-  * Primal and dual optimal always satisfies weak duality $f^\star \ge g^\star$.
-  * If Slater's condition is satisfied, strong duality hold (i.e. $f^\star = g^\star$)
+  * Primal and dual optimal always satisfy weak duality $f^\star \ge g^\star$.
+  * If Slater's condition is satisfied, strong duality holds (i.e. $f^\star = g^\star$)
 
 
 ## Karush-Kuhn-Tucker (KKT) conditions ##
