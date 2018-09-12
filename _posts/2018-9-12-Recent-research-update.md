@@ -19,15 +19,16 @@ $$
 &&& l_j(x) =0, \; j=1, \ldots, r,
 \end{aligned}
 \end{equation}$$
-where $D = \text{dom}(f)\cap\bigcap_{i=1}^m \text{dom}(h_i)$. The function $f$ is called the objective function. A convex optimization problem is when $f$ and $h_i$ are all convex and $l_j$ is affine (therefore convex). In this paper, we're concerned with a particular type of convex optimization called the (convex) quadratic programming (QP) where $f(x)=c^T x+ \frac{1}{2}x^T Q x$ with $Q\succeq 0$ being a positive semi-definite matrix. Formally, a convex QP is defined as:
+
+where $D = \text{dom}(f)\cap\bigcap_{i=1}^m \text{dom}(h_i)$. The function $f$ is called the objective function. This problem is convex when $f$ and $h_i$ are all convex functions of $x$ and $l_j$ is an affine (therefore convex) function of $x$. In this paper, we're concerned with a particular type of convex optimization called the (convex) quadratic programming (QP) where $f(x)=c^T x+ \frac{1}{2}x^T Q x$ with $Q\succeq 0$ being a positive semi-definite matrix. Formally, a convex QP is defined as:
 
 $$ 
 \begin{equation}
 \begin{aligned}
 & \underset{x}{\text{min}}
-& & c^T x+ frac{1}{2}x^T Q x \\
+& & c^T x+ \frac{1}{2}x^T Q x \\
 & \text{subject to}
-& & D_i x \leq d, \; i = 1, \ldots, m.\\
-&&& A_j(x) =b, \; j=1, \ldots, r,
+& & D_i x \leq d_i, \; i = 1, \ldots, m.\\
+&&& A_j(x) =b_j, \; j=1, \ldots, r,
 \end{aligned}
 \end{equation}$$
