@@ -5,7 +5,7 @@ mathjax: true
 comments: true
 ---
 
-Recently we posted an article on arxiv about a suprising duality between optimization problem with inequality constraints, particularly quadratic programming (QP), and one of the most famous models of ecological dynamics, MacArthur's Consumer Resource Model (MCRM). Here I want to provide a very gentle introduction to some basic ideas in optimization and convex duality, which we invoked upon in this paper, appease physicsists who might get annoyed by these jargons.  
+Recently we posted an article on arxiv about a suprising duality between optimization problem with inequality constraints, particularly [quadratic programming (QP)](https://en.wikipedia.org/wiki/Quadratic_programming), and one of the most famous models of ecological dynamics, MacArthur's Consumer Resource Model (MCRM). Here I want to provide a very gentle introduction to some basic ideas in optimization and convex duality, which we invoked upon in this paper, appease physicsists who might get annoyed by these jargons.  
 
 
 ## Definition of QP
@@ -77,5 +77,12 @@ Another notable example is the [Support Vector Machine](https://en.wikipedia.org
 \end{equation}
 $$
 
+One might wonder why convexity matter? One obvious answer from both theoretical and algorithmic viewpoint stems from the fact that for **a convex problem, any local minimizer is a global minimizer**. This means that in the optimization procedure, as long as we're *going down the hill* and agree to stop when we can't go any further, then we've hit the global minimum. There are of course gazillions of nice property of convext problems which I refer readers to [Stephen Boyd's](https://web.stanford.edu/~boyd) book and course on [Convext Optimization](https://web.stanford.edu/~boyd/cvxbook/). 
+
+Now having defined QP, I want to switch gear to talk about another concept that was invoked upon in this paper: convext duality.
 
 ## Convex Duality
+
+Physicists are not that unfamiliar with the concept of duality (e.g.  AdS/CFT correspondence or gauge/gravity duality). Like many such problems, duality allows us to map a problem to its dual where solutions are more easily found. Convex duality is no exception! Recall that we just stated one simple but powerful attribute of convex problems: every local minimizer is a global minimizer. One intuitive application lies in finding the set of parameters (e.g. coupling constants) that gives rise to the ground state of a physical system. If the Hamiltonian is convex, this property immediately implies that no matter what dimensionality the problem is defined in, one would never get stuck by local minima or saddales (since there's no such thing at all!) In the language of convex optimization, one similar correlate of this analogy is: **the Lagrange dual of an optimization problem is alway convex**! As one shall see, duality also allows us to explore the property of solutions even without solving the problem itself!
+
+### Lagrange dual
