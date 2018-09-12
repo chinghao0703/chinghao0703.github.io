@@ -5,7 +5,8 @@ mathjax: true
 comments: true
 ---
 
-Recently we posted an article on arxiv about a suprising duality between optimization problem with inequality constraints, particularly [quadratic programming (QP)](https://en.wikipedia.org/wiki/Quadratic_programming), and one of the most famous models of ecological dynamics, MacArthur's Consumer Resource Model (MCRM). Here I want to provide a very gentle introduction to some basic ideas in optimization and convex duality, which we invoked upon in this paper, to appease those who are distracted by these jargons.  
+Recently we posted an article on arxiv about a suprising duality between optimization problem with inequality constraints, particularly [quadratic programming (QP)](https://en.wikipedia.org/wiki/Quadratic_programming), and one of the most famous models of ecological dynamics, MacArthur's Consumer Resource Model (MCRM). Here I want to provide a very gentle introduction to some basic ideas in optimization and convex duality, which we invoked upon in this paper, to appease those who are distracted by these jargons.  In the following, I draw heavily on the awesome book by [Stephen Boyd](https://web.stanford.edu/~boyd/cvxbook/) and the CVX lecture notes from [Ryan Tibshirani](http://www.stat.cmu.edu/~ryantibs/index.html). 
+
 
 
 ## Definition of QP
@@ -173,7 +174,7 @@ The Karush-Kuhn-Tucker (KKT) conditions are:
   * $h_i(x)\le 0, l_j(x)=0,\,\forall i,j$ (**primal feasibility**)
   * $u_i\ge 0,\forall i$ (**dual feasibility**)
 
-  Note that we use the notation $\partial f$ to denote the subgradient of $f$, which for differentiable $f$ is equivalent to $\nabla f$. One of the most important property of the KKT condition is the following:
+  Note that we use the notation $\partial f$ to denote the subgradient of $f$, which, for differentiable $f$, is equivalent to $\nabla f$. One of the most important properties of the KKT conditions is the following:
 
 
   For a problem with **strong duality** (assuming Slater condition holds), 
@@ -186,4 +187,4 @@ $$
 \end{aligned}
 \end{equation}$$
 
-Note that KKT conditions are always sufficient. Its necessary only under the Slater condition. 
+Note that KKT conditions are always sufficient. It's necessary only under the Slater condition. 
