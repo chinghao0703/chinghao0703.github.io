@@ -144,4 +144,46 @@ $$
 
 then **strong duality holds**. As one shall see, this condition will establish the necessity and sufficiency of primal-dual optimality through the KKT conditions to be introduced later.
 
+Let's recap:
+  * Dual problem is always convex even if primal is not.
+  * Primal and dual optimal always satisfies weak duality $f^\star \ge g^\star$.
+  * If Slater's condition is satisfied, strong duality hold (i.e. $f^\star = g^\star$)
 
+
+## Karush-Kuhn-Tucker (KKT) conditions ##
+
+Again, consider the general optimization problem: 
+
+
+$$ 
+\begin{equation}
+\begin{aligned}
+& \underset{x}{\text{min}}
+& & f(x) \\
+& \text{subject to}
+& & h_i(x) \leq 0, \; i = 1, \ldots, m\\
+&&& l_j(x) =0, \; j=1, \ldots, r,
+\end{aligned}
+\end{equation}$$
+
+The Karush-Kuhn-Tucker (KKT) conditions are:
+
+  * $0\in \partial f(x) + \sum_{i=1}^m u_i \partial h_i(x) + \sum_{j=1}^r v_j\partial l_j(x)$ (**stationarity**)
+  * $u_i h_i(x) = 0,\, \forall i$ (**complementary slackness**)
+  * $h_i(x)\le 0, l_j(x)=0,\,\forall i,j$ (**primal feasibility**)
+  * $u_i\ge 0,\forall i$ (**dual feasibility**)
+
+  Note that we use the notation $\partial f$ to denote the subgradient of $f$, which for differentiable $f$ is equivalent to $\nabla f$. One of the most important property of the KKT condition is the following:
+
+
+  For a problem with **strong duality** (assuming Slater condition holds), 
+
+$$ 
+\begin{equation}
+\begin{aligned}
+& x^\star \text{ and } u^\star, v^\star \text{ are primal and dual solutions} \\
+& \Longleftrightarrow  x^\star \text{ and } u^\star, v^\star \text{ satisfy KKT conditions}
+\end{aligned}
+\end{equation}$$
+
+Note that KKT conditions are always sufficient. Its necessary only under the Slater condition. 
