@@ -110,7 +110,7 @@ $$
 \end{equation}
 $$
 
-where $u\in\mathbb{R}^m, v\in\mathbb{R}^r$, with $u\ge 0$. One can show that for all $u\ge 0$ and $v$, $L(x,u,v)\le f(x)$ by applying the non-positivity of $h_i$ and zeroness of $l_j$. Let $C$ be the primal feasible set (i.e. the set of $x$ where contraints stated above are satisfied and $f^{\star}$ be the primal optimal value (i.e. solution to the primal problem), namely,
+where $u\in\mathbb{R}^m, v\in\mathbb{R}^r$, with $u\ge 0$. One can show that for all $u\ge 0$ and $v$, $L(x,u,v)\le f(x)$ by applying the non-positivity of $h_i$ and zeroness of $l_j$. Let $C$ be the primal feasible set (i.e. the set of $x$ where contraints stated above are satisfied and $f^{\star}$ be the primal optimal value (i.e. solution to the primal problem), we have
 
 $$
 \begin{equation}
