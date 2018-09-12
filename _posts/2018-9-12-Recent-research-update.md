@@ -138,7 +138,7 @@ $$
 \begin{aligned}
 &h_i(x) < 0, \; i = 1, \ldots, m\\
 & l_j(x) =0, \; j=1, \ldots, r,
-\end{alighed}
+\end{aligned}
 \end{equation}
 $$
 
