@@ -39,7 +39,7 @@ $$
 
 ### Examples of QP
 
-QP has applications across disciplines. For in example, ione can formulate **portfolio optimization** as QP:
+QP has applications across disciplines. For in example, one can formulate **portfolio optimization** as QP:
 
 
 $$ 
