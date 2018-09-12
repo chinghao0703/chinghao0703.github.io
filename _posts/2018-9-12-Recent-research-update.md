@@ -40,6 +40,8 @@ $$
 ### Examples of QP
 
 QP has applications across disciplines. For in example, ione can formulate **portfolio optimization** as QP:
+
+
 $$ 
 \begin{equation}
 \begin{aligned}
@@ -59,7 +61,7 @@ with the following interpretation:
   * $\gamma$: risk aversion
   * $x$: percentage portfolio holdings
 
-Another notable example is in the case of [Support Vector Machine](https://en.wikipedia.org/wiki/Support_vector_machine):
+Another notable example is the [Support Vector Machine](https://en.wikipedia.org/wiki/Support_vector_machine):
 
  Given $y\in\{-1,1\}, X \in \mathbb{R}^{n\times p}$ with rows $x_1,\cdots, x_n$. A support vector machine (SVM) problem is defined as:
 
