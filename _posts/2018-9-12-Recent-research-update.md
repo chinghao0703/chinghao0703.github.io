@@ -130,16 +130,16 @@ $$
 \end{equation}$$
 
 
-Similarly, denote $g^\star$ as dual optimal (i.e. solution to the above dual problem). From the above, we have a very important property called **weak duality**: $f^\star \ge g^\star$. Note that since $g$ is concave in $(u,v)$ and $u\ge 0$ is an affine (therefore convex) constraint, the dual problem is a concave maximization probelm (hence a convex optimization problem). On ther other hand, if the ineqality turns out to be an equality (i.e. $f^\star = g^\star$), we say **strong duality** holds. 
+Similarly, denote $g^\star$ as dual optimal (i.e. solution to the above dual problem), we have a very important property called **weak duality**: $f^\star \ge g^\star$. Note that since $g$ is concave in $(u,v)$ and $u\ge 0$ is an affine (therefore convex) constraint, the dual problem is a concave maximization probelm (hence a convex optimization problem). On ther other hand, if the ineqality turns out to be an equality (i.e. $f^\star = g^\star$), we say **strong duality** holds. 
 
 A sufficient condition for strong duality is the **Slater's condition**: if the primal problem is convex, and there exists at least one strictly feasible $x\in\mathbb{R}^n$, namely, $\exists x\in\mathbb{R}^n $  s.t.
 $$
 \begin{equation}
 &h_i(x) < 0, \; i = 1, \ldots, m\\
-&& l_j(x) =0, \; j=1, \ldots, r,
+& l_j(x) =0, \; j=1, \ldots, r,
 \end{equation}
 $$
 
-then ***strong duality holds**. As one shall see, this condition will establish the necessity and sufficiency of primal-dual optimality through the KKT conditions.
+then **strong duality holds**. As one shall see, this condition will establish the necessity and sufficiency of primal-dual optimality through the KKT conditions to be introduced later.
 
 
