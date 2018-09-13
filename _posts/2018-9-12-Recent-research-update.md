@@ -176,13 +176,20 @@ The Karush-Kuhn-Tucker (KKT) conditions are:
 
   Note that we use the notation $\partial f$ to denote the subdifferential of $f$ (i.e. set of all subgradients of $f$). Particularly, a subgradient of a convex function $f$ at $x$ is any function $g\in\mathbb{R}^n$ such that
 
-$$f(y)\ge f(x) + g^T (y-x)$$  for all $y$.
+$$
+\begin{equation} 
+f(y)\ge f(x) + g^T (y-x),\text{  for any } y.
+\end{equation}
+$$
 
 In convex analysis, optimality can often be characterized by the objective function's subgradient and monotonicity. For example, 
 
 Let $f$ be a function (not necessary convex), 
 
-$$f(x^\star)=\min_x f(x)\, \Longleftrightarrow 0\in\partial f(x^\star)$$,
+$$
+\begin{equation} f(x^\star)=\min_x f(x)\, \Longleftrightarrow 0\in\partial f(x^\star),
+\end{equation}
+$$
 
 meaning that **$x^\star$ is a minimizer of $f$ if and only if 0 is a subgradient of $f$ evaluated at $x^\star$**. In addition to this, subgradient is related to [convex geometry](https://en.wikipedia.org/wiki/Convex_geometry) which I refer readers to [Rockafellar's masterpiece on Convex Analysis](https://press.princeton.edu/titles/1815.html). Final word before coming back to KKT, if $f$ is differentiable, $\partial f = \{\nabla f\}$. 
 
@@ -203,12 +210,19 @@ Note that KKT conditions are always sufficient for optimality. The necessary par
 
 Now suppose strong duality holds. Given dual optimal $u^\star, v^\star$, any primal solution satisfies the KKT conditions. Particularly, the stationarity condition reads:
 
-$$0\in \partial f(x^\star) + \sum_{i=1}^m u_i^\star \partial h_i(^\star) + \sum_{j=1}^r v_j^\star\partial l_j(x^\star)$$
+$$
+\begin{equation} 
+0\in \partial f(x^\star) + \sum_{i=1}^m u_i^\star \partial h_i(^\star) + \sum_{j=1}^r v_j^\star\partial l_j(x^\star)
+\end{equation}
+$$
 
-By definition, this implies that $x^\star$ solves $\min_x L(x, u^\star, v^\star)$!! If this problem happen to have a unique minimizer, then the corresponding solution must be the primal solution! In other words, we can use KKT to characterize or even compute the primal solutions. 
+By definition, this implies that $x^\star$ solves $\min_x L(x, u^\star, v^\star)$!! If this problem happens to have a unique minimizer, then the corresponding solution must be the primal solution! In other words, we can use KKT to characterize or even compute the primal solutions. 
 
 Before concluding, I want to introduce an important concept-- the **duality gap**.  Let $x$ and $u, v$ be primal and dual feasible. $f(x) -g(u,v)$ is called the duality gap between $x$ and $u,v$. Since $f^\star \ge g(u,v)$, we have 
 
-$$f(x) - f(x^\star) \le f(x) - g(u,v)$$.
+$$
+\begin{equation}f(x) - f(x^\star) \le f(x) - g(u,v).
+\end{equationn}
+$$
 
 An immediate corollary is that **zero duality gap implies optimality!**
