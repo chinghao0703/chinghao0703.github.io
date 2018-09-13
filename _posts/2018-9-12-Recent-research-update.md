@@ -222,7 +222,7 @@ Before concluding, I want to introduce an important concept-- the **duality gap*
 
 $$
 \begin{equation}f(x) - f(x^\star) \le f(x) - g(u,v).
-\end{equationn}
+\end{equation}
 $$
 
 An immediate corollary is that **zero duality gap implies optimality!**
