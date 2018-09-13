@@ -38,6 +38,8 @@ $$
 \end{equation}$$
 
 
+Note that if $Q\nsucceq 0$, this problem is not convex!
+
 ### Examples of QP
 
 QP has applications across disciplines. For in example, one can formulate [**portfolio optimization**](https://en.wikipedia.org/wiki/Portfolio_optimization) as QP:
@@ -184,7 +186,7 @@ $$
 
 In convex analysis, optimality can often be characterized by the objective function's subgradient and monotonicity. For example, 
 
-Let $f$ be a function (not necessary convex), 
+Let $f$ be a function (not necessarily convex), 
 
 $$
 \begin{equation} f(x^\star)=\min_x f(x)\, \Longleftrightarrow 0\in\partial f(x^\star),
@@ -218,7 +220,7 @@ $$
 
 By definition, this implies that $x^\star$ solves $\min_x L(x, u^\star, v^\star)$!! If this problem happens to have a unique minimizer, then the corresponding solution must be the primal solution! In other words, we can use KKT to characterize or even compute the primal solutions. 
 
-Before concluding, I want to introduce an important concept-- the **duality gap**.  Let $x$ and $u, v$ be primal and dual feasible. $f(x) -g(u,v)$ is called the duality gap between $x$ and $u,v$. Since $f^\star \ge g(u,v)$, we have 
+Before concluding, I want to introduce an important concept-- the **duality gap**.  Let $x$ and $u, v$ be primal and dual feasible, respectively. $f(x) -g(u,v)$ is called the duality gap between $x$ and $u,v$. Since $f^\star \ge g(u,v)$, we have 
 
 $$
 \begin{equation}f(x) - f(x^\star) \le f(x) - g(u,v).
