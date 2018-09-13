@@ -78,7 +78,7 @@ Another notable example is the [Support Vector Machine](https://en.wikipedia.org
 \end{equation}
 $$
 
-One might wonder why convexity matter? One obvious answer is that **for convex problems, any local minimizer is a global minimizer**. This means that in the optimization procedure, as long as we're *going down the hill* and agree to stop when we can't go any further, then we've hit the global minimum. There are of course gazillions of nice properties of convex problems which I refer readers to [Stephen Boyd's](https://web.stanford.edu/~boyd) book and course on [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/). 
+One might wonder why convexity matters? One simple answer is that **for convex problems, any local minimizer is a global minimizer**. This means that in the optimization procedure, as long as we're *going down the hill* and agree to stop when we can't go any further, then we've hit the global minimum. There are of course gazillions of nice properties of convex functions in terms of optimization which I refer readers to [Stephen Boyd's](https://web.stanford.edu/~boyd) book and course on [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/). 
 
 Now having defined QP, I want to switch gear to talk about another concept that was invoked upon in this paper: convex duality.
 
