@@ -40,7 +40,7 @@ $$
 
 ### Examples of QP
 
-QP has applications across disciplines. For in example, one can formulate **portfolio optimization** as QP:
+QP has applications across disciplines. For in example, one can formulate [**portfolio optimization**](https://en.wikipedia.org/wiki/Portfolio_optimization) as QP:
 
 
 $$ 
@@ -110,7 +110,7 @@ $$
 \end{equation}
 $$
 
-where $u\in\mathbb{R}^m, v\in\mathbb{R}^r$, with $u\ge 0$. One can show that for all $u\ge 0$ and $v$, $L(x,u,v)\le f(x)$ by applying the non-positivity of $h_i$ and zeroness of $l_j$. Let $C$ be the primal feasible set (i.e. the set of $x$ where contraints stated above are satisfied and $f^{\star}$ be the primal optimal value (i.e. solution to the primal problem), we have
+where $u\in\mathbb{R}^m, v\in\mathbb{R}^r$, with $u\ge 0$. One can show that for all $u\ge 0$ and $v$, $L(x,u,v)\le f(x)$ by applying the non-positivity of $h_i$ and zeroness of $l_j$. Let $C$ be the primal feasible set (i.e. the set of $x$ where contraints stated above are satisfied) and $f^{\star}$ be the primal optimal value (i.e. solution to the primal problem), we have
 
 $$
 \begin{equation}
@@ -174,7 +174,19 @@ The Karush-Kuhn-Tucker (KKT) conditions are:
   * $h_i(x)\le 0, l_j(x)=0,\,\forall i,j$ (**primal feasibility**)
   * $u_i\ge 0,\forall i$ (**dual feasibility**)
 
-  Note that we use the notation $\partial f$ to denote the subgradient of $f$, which, for differentiable $f$, is equivalent to $\nabla f$. One of the most important properties of the KKT conditions is the following:
+  Note that we use the notation $\partial f$ to denote the subdifferential of $f$ (i.e. set of all subgradients of $f$). Particuarly, a subgradient of a convex function $f$ at $x$ is any function $g\in\mathbb{R}^n$ such that
+
+$$f(y)\ge f(x) + g^T (y-x)$$  for all $y$.
+
+In convex analysis, optimality can often be characterized by the objective function's subgradient and monotonicity. For example, 
+
+Let $f$ be a function (not necessary convex), 
+
+$$f(x^\star)=\min_x f(x)\, \Longleftrightarrow 0\in\partial f(x^\star)$$,
+
+meaning that **$x^\star$ is a minimizer of $f$ if and only if 0 is a subgradient of $f$ evaluated at $x^\star$**. In addition to this, subgradient is related to [convex geometry](https://en.wikipedia.org/wiki/Convex_geometry) which I refer readers to [Rockafellar's masterpiece on Convex Analysis](https://press.princeton.edu/titles/1815.html). Final word before coming back to KKT, if $f$ is differentiable, $\partial f = \{\nabla f\}$. 
+
+One of the most important properties of the KKT conditions is the following:
 
 
   For a problem with **strong duality** (assuming Slater condition holds), 
