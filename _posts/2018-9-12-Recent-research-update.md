@@ -5,7 +5,7 @@ mathjax: true
 comments: true
 ---
 
-Recently we posted an article on arxiv about a suprising duality between optimization problem with inequality constraints, particularly [quadratic programming (QP)](https://en.wikipedia.org/wiki/Quadratic_programming), and one of the most famous models of ecological dynamics, MacArthur's Consumer Resource Model (MCRM). Here I want to provide a very gentle introduction to some basic ideas in optimization and convex duality, which we invoked upon in this paper, to appease those who are distracted by these jargons.  In the following, I draw heavily on the awesome book by [Stephen Boyd](https://web.stanford.edu/~boyd/cvxbook/) and the CVX lecture notes from [Ryan Tibshirani](http://www.stat.cmu.edu/~ryantibs/index.html). 
+Recently we posted an [article on arxiv](https://arxiv.org/abs/1809.04221) about a suprising duality between optimization problem with inequality constraints, particularly [quadratic programming (QP)](https://en.wikipedia.org/wiki/Quadratic_programming), and one of the most famous models of ecological dynamics, MacArthur's Consumer Resource Model (MCRM). Here I want to provide a very gentle introduction to some basic ideas in optimization and convex duality, which we invoked upon in this paper, to appease those who are distracted by these jargons.  In the following, I draw heavily on the awesome book by [Stephen Boyd](https://web.stanford.edu/~boyd/cvxbook/) and the CVX lecture notes from [Ryan Tibshirani](http://www.stat.cmu.edu/~ryantibs/index.html). 
 
 
 
