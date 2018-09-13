@@ -199,4 +199,16 @@ $$
 \end{aligned}
 \end{equation}$$
 
-Note that KKT conditions are always sufficient. The necessary part is, in this case, by virtue of Slater's condition. 
+Note that KKT conditions are always sufficient for optimality. The necessary part is, in this case, by virtue of Slater's condition. 
+
+Now suppose strong duality holds. Given dual optimal $u^\star, v^\star$, any primal solution satisfies the KKT conditions. Particularly, the stationarity condition reads:
+
+$$0\in \partial f(x^\star) + \sum_{i=1}^m u_i^\star \partial h_i(^\star) + \sum_{j=1}^r v_j^\star\partial l_j(x^\star)$$
+
+By definition, this implies that $x^\star$ solves $\min_x L(x, u^\star, v^\star)$!! If this problem happen to have a unique minimizer, then the corresponding solution must be the primal solution! In other words, we can use KKT to characterize or even compute the primal solutions. 
+
+Before concluding, I want to introduce an important concept-- the **duality gap**.  Let $x$ and $u, v$ be primal and dual feasible. $f(x) -g(u,v)$ is called the duality gap between $x$ and $u,v$. Since $f^\star \ge g(u,v)$, we have 
+
+$$f(x) - f(x^\star) \le f(x) - g(u,v)$$.
+
+An immediate corollary is that **zero duality gap implies optimality!**
