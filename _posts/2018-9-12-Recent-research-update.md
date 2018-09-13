@@ -187,4 +187,4 @@ $$
 \end{aligned}
 \end{equation}$$
 
-Note that KKT conditions are always sufficient. It's necessity is by virtue of Slater's condition. 
+Note that KKT conditions are always sufficient. The necessary part is, in this case, by virtue of Slater's condition. 
