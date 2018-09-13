@@ -10,6 +10,10 @@ I'm a physics Ph.D. student working with [Pankaj Mehta](https://physics.bu.edu/~
 
 ### News ###
 
+
+**09/13/2018**
+New manuscript titled "*Constrained optimization as ecological dynamics with applications to random quadratic programming in high dimensions*" is on [arXiv:1809.04221](https://arxiv.org/abs/1809.04221) now!
+
 **06/07/2018**
 New manuscript titled "*Pinned, locked, pushed, and pulled traveling waves in structured environments*" is on [arXiv:1806.02480](https://arxiv.org/abs/1806.02480) and [bioRxiv](https://doi.org/10.1101/341222) now!
 
