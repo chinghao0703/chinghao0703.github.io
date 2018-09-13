@@ -174,7 +174,7 @@ The Karush-Kuhn-Tucker (KKT) conditions are:
   * $h_i(x)\le 0, l_j(x)=0,\,\forall i,j$ (**primal feasibility**)
   * $u_i\ge 0,\forall i$ (**dual feasibility**)
 
-  Note that we use the notation $\partial f$ to denote the subdifferential of $f$ (i.e. set of all subgradients of $f$). Particuarly, a subgradient of a convex function $f$ at $x$ is any function $g\in\mathbb{R}^n$ such that
+  Note that we use the notation $\partial f$ to denote the subdifferential of $f$ (i.e. set of all subgradients of $f$). Particularly, a subgradient of a convex function $f$ at $x$ is any function $g\in\mathbb{R}^n$ such that
 
 $$f(y)\ge f(x) + g^T (y-x)$$  for all $y$.
 
