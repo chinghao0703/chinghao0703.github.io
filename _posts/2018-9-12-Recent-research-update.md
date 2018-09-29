@@ -198,7 +198,7 @@ meaning that **$x^\star$ is a minimizer of $f$ if and only if 0 is a subgradient
 One of the most important properties of the KKT conditions is the following:
 
 
-  For a problem with **strong duality** (assuming Slater condition holds), 
+For a problem with **strong duality** (assuming Slater condition holds), 
 
 $$ 
 \begin{equation}
@@ -214,7 +214,7 @@ Now suppose strong duality holds. Given dual optimal $u^\star, v^\star$, any pri
 
 $$
 \begin{equation} 
-0\in \partial f(x^\star) + \sum_{i=1}^m u_i^\star \partial h_i(^\star) + \sum_{j=1}^r v_j^\star\partial l_j(x^\star)
+0\in \partial f(x^\star) + \sum_{i=1}^m u_i^\star \partial h_i(x^\star) + \sum_{j=1}^r v_j^\star\partial l_j(x^\star)
 \end{equation}
 $$
 
