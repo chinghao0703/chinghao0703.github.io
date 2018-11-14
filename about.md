@@ -12,7 +12,7 @@ I'm a physics Ph.D. student working with [Pankaj Mehta](https://physics.bu.edu/~
 
 
 **[11/13/2018]**
-New manuscript titled "**The strength of protein-protein interactions controls the information capacity and dynamical response of signaling networks**" is on [bioRxiv:10.1101/469197](https://doi.org/10.1101/469197) now!
+New manuscript titled "**The strength of protein-protein interactions controls the information capacity and dynamical response of signaling networks**" is on [arXiv:1811.05371](https://arxiv.org/abs/1811.05371) and [bioRxiv:10.1101/469197](https://doi.org/10.1101/469197) now!
 
 **[09/12/2018]**
 New manuscript titled "**Constrained optimization as ecological dynamics with applications to random quadratic programming in high dimensions**" is on [arXiv:1809.04221](https://arxiv.org/abs/1809.04221) now!
