@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-I'm a physics Ph.D. student working with [Pankaj Mehta](https://physics.bu.edu/~pankajm/) on problems that lie on the interface between physics, biology, computer science, and machine learning. Here you can find my [CV](https://www.dropbox.com/s/0fl1yhye8zwfcjq/CHW_CV.pdf?dl=0). Also check out my GitHub [repository](https://github.com/chinghao0703) for some eclectic codes I wrote. I hope to fully migrate my [website](https://sites.google.com/site/chinghaowang/) from Google to here by this May.
+I'm a physics Ph.D. student working with [Pankaj Mehta](https://physics.bu.edu/~pankajm/) on problems that lie on the interface between physics, biology, computer science, and machine learning. Here you can find my [CV](https://www.dropbox.com/s/0fl1yhye8zwfcjq/CHW_CV.pdf?dl=0). Also check out my GitHub [repository](https://github.com/chinghao0703) and [Google Scholar](https://scholar.google.com/citations?user=_-ylxpYAAAAJ&hl=en). I hope to fully migrate my [website](https://sites.google.com/site/chinghaowang/) from Google to here by this May.
 
 
 ### News ###
