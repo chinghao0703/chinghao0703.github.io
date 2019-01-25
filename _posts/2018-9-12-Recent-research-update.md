@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Research update- QP and ecology [to-be-finished]
+title: Research update- QP and ecology
 mathjax: true
 comments: true
 ---
