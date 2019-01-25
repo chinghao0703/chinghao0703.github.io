@@ -5,7 +5,6 @@ permalink: /about/
 ---
 
 
-<<<<<<< HEAD
 Beginning February 2019, I'm a postdoctoral research associate working with Prof. Herbert Levine [Herbert Levine](http://www.bioe.neu.edu/people/levine-herbert) at Northeastern University. Here you can find my [CV](https://www.dropbox.com/s/0fl1yhye8zwfcjq/CHW_CV.pdf?dl=0). Also check out my GitHub [repository](https://github.com/chinghao0703) for some eclectic codes I wrote.
 
 
