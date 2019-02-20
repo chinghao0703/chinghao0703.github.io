@@ -7,6 +7,9 @@ permalink: /Research/
 # General themes
 
   * You can find my publication list in my [CV](https://www.dropbox.com/s/0fl1yhye8zwfcjq/CHW_CV.pdf?dl=0). 
+  * Here's my [Résumé](https://www.dropbox.com/s/u47ag9gug3add92/Resume_WANG.pdf?dl=0).
+  
+# Machine Learning and Physics
   * For the Machine Learning review I coauthored and the python notebooks that come with it, please visit this [website](http://physics.bu.edu/~pankajm/MLnotebooks.html) or this [Github repository](https://github.com/drckf/mlreview_notebooks)
   
 
