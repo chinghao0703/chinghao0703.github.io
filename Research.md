@@ -32,7 +32,7 @@ permalink: /Research/
   * Thermodynamics of energy expenditure in biology
      * See [this publication](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.118.158101)
  
-# Condened Matter Physics
+# Condensed Matter Physics
  
  * Ginzburg-Landau theory of solid-liquid interfacial kinetics and phase-field crystal
      * See [this publication](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.91.014107)
