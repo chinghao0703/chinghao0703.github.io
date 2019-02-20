@@ -15,9 +15,9 @@ permalink: /Research/
 
   * Probabilistic graphical models on protein-protein interaction ans cell signaling network
      * See [this publication](https://www.biorxiv.org/content/10.1101/469197v2) that focus on optimizing information capacity 
-     * Forthcoming publication: see [this presentation](https://www.dropbox.com/s/hujznfqx2526k6t/Signet_design.mov?dl=0) for a preview
+     * Forthcoming publication: see [this video presentation](https://www.dropbox.com/s/hujznfqx2526k6t/Signet_design.mov?dl=0) for a preview
   * Elucidating protein conevolution using density-based clustering and Botlzmann learning:
-     * see [this video presentation](https://www.dropbox.com/s/be3rc7de5jjcuit/protein_coevol.m4v?dl=0)
+     * See [this video presentation](https://www.dropbox.com/s/be3rc7de5jjcuit/protein_coevol.m4v?dl=0)
  
   
   
