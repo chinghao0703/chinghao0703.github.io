@@ -20,7 +20,7 @@ permalink: /Research/
   * Elucidating protein conevolution using density-based clustering and Botlzmann learning:
      * See [this video presentation](https://www.dropbox.com/s/be3rc7de5jjcuit/protein_coevol.m4v?dl=0)
   
-  * Optimal duality in optimization theory and ecological models:
+  * Optimal duality in optimization theory and models on ecological dynamics :
      * See [this publication](https://arxiv.org/abs/1809.04221) and my [introductory blogpost](https://chinghao0703.github.io/Recent-research-update/) on qudratic programming (QP) and optimal duality
 
   * Traveling waves in ecology:
