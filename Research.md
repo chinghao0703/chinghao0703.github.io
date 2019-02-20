@@ -16,8 +16,14 @@ permalink: /Research/
   * Probabilistic graphical models on protein-protein interaction and cell signaling network
      * See [this publication](https://www.biorxiv.org/content/10.1101/469197v2) that focus on optimizing information capacity 
      * Forthcoming publication: see [this video presentation](https://www.dropbox.com/s/hujznfqx2526k6t/Signet_design.mov?dl=0) for a preview
+     
   * Elucidating protein conevolution using density-based clustering and Botlzmann learning:
      * See [this video presentation](https://www.dropbox.com/s/be3rc7de5jjcuit/protein_coevol.m4v?dl=0)
+  
+  * Optimizal duality in optimization theory and ecological models:
+     * See [this publicatio](https://arxiv.org/abs/1809.04221) and my [introductory blogpost](https://chinghao0703.github.io/Recent-research-update/) of qudratic programming (QP) and optimal duality
+  
+  
  
   
   
