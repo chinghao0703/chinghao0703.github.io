@@ -22,7 +22,13 @@ permalink: /Research/
   
   * Optimal duality in optimization theory and ecological models:
      * See [this publication](https://arxiv.org/abs/1809.04221) and my [introductory blogpost](https://chinghao0703.github.io/Recent-research-update/) on qudratic programming (QP) and optimal duality
+
+  * Traveling waves in ecology:
+     * See [this publication](https://www.biorxiv.org/content/10.1101/341222v1)
   
+  * Thermodynamics of energy expenditure in biology
+     * See [this publication](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.118.158101)
+     
   
  
   
