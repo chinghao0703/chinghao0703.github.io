@@ -11,7 +11,7 @@ I'm a biophyscist/computational biologist based in Boston, MA. Here you can find
 ### SCOTUS justices voting pattern ###
 Curious about the SCOTUS voting pattern? Check our the Python Jupyter notebooks to analyze SCOTUS voting data and to generate the following figure [here](https://chinghao0703.github.io/Research/)
 
-![useful image]({{https://chinghao0703.github.io}}/images/corr.png)
+![SCOTUS corr]({{ site.url }}/images/corr.png)
 
 
 ### News ###
