@@ -10,7 +10,7 @@ permalink: /Research/
   * Here's my [Résumé](https://www.dropbox.com/s/u47ag9gug3add92/Resume_WANG.pdf?dl=0).
   
 # Machine Learning and Physics
-  * For the Machine Learning review I coauthored and the python notebooks that come with it, please visit this [website](http://physics.bu.edu/~pankajm/MLnotebooks.html) or this [Github repository](https://github.com/drckf/mlreview_notebooks)
+  * For the Machine Learning review I coauthored, please visit this [website](https://doi.org/10.1016/j.physrep.2019.03.001) for the published (but open-access) acticle and this [Github repository](https://github.com/drckf/mlreview_notebooks) for the Python Jupyter notebooks that come with it.
   
 
 
