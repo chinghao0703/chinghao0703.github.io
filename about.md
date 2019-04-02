@@ -17,7 +17,7 @@ Curious about the SCOTUS voting pattern? Shown below is the correlation matrix o
 ### News ###
 
 **[04/01/2019]**
-The published verision of our machine leanring review titled "**A high-bias, low-variance introduction to Machine Learning for physicists**" is out at [Physics Reports](https://doi.org/10.1016/j.physrep.2019.03.001). Also check out the [Python Jupyter notebooks](https://github.com/drckf/mlreview_notebooks) that comes with it.
+The published verision of our machine leanring review titled "**A high-bias, low-variance introduction to Machine Learning for physicists**" is out at [Physics Reports](https://doi.org/10.1016/j.physrep.2019.03.001). Also check out the [Python Jupyter notebooks](https://github.com/drckf/mlreview_notebooks) that come with it.
 
 **[11/13/2018]**
 New manuscript titled "**The strength of protein-protein interactions controls the information capacity and dynamical response of signaling networks**" is on [arXiv:1811.05371](https://arxiv.org/abs/1811.05371) and [bioRxiv:10.1101/469197](https://doi.org/10.1101/469197) now!
