@@ -3,7 +3,7 @@ layout: post
 title: SCOTUS voting patterns
 ---
 
-Here I compare the voting pattern of justices in the Rehnquist (1986 to 2005) and/or Roberts court (2005 to present). This data is publicly available at [SCOTUS database](http://scdb.wustl.edu/) provided by the Washington University of Law. On top of this dataset, I annotated the justices with party of the president by whom they were appointed to the bench. More details to come.
+Here I compare the voting pattern of justices in ther Roberts' court (2005 to present). This data is publicly available at [SCOTUS database](http://scdb.wustl.edu/) provided by the Washington University of Law. On top of this dataset, I annotated the justices with party of the president by whom they were appointed to the bench. More details to come.
 
 
 ![image](/assets/images/corr.png)
