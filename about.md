@@ -9,7 +9,7 @@ I'm a biophyscist/computational biologist based in Boston, MA. Here you can find
 
 
 ### SCOTUS justices voting pattern ###
-Curious about the SCOTUS voting pattern? Shown below is the correlation matrix of Justices in the Roberts' court (excludinng J.P. Stevens and S.D. O'Connor since they have less overlap with currently sitting justices) constructed based all cases documented in the [SCOTUS database](http://scdb.wustl.edu/). Python Jupyter notebook and [blogpost](https://chinghao0703.github.io/SCOTUS-Voting-Patterns/) with more detailed analysis (e.g. based on case area such as criminal procedure, civil right, due process) coming soon!
+Curious about the SCOTUS voting pattern? Shown below is the correlation matrix of Justices in the Roberts' court (excludinng J.P. Stevens and S.D. O'Connor since they have less overlap with currently sitting justices) constructed based all cases documented in the [SCOTUS database](http://scdb.wustl.edu/). [Python Jupyter notebook](https://github.com/chinghao0703/chinghao0703.github.io/blob/master/SCOTUS/notebooks/SCOTUS-voting-correlation.ipynb), its [html](https://www.dropbox.com/s/wteg0uoc4m9bp7x/SCOTUS-voting-correlation.html?dl=0) verions, and [blogpost](https://chinghao0703.github.io/SCOTUS-Voting-Patterns/) with more detailed analysis (e.g. based on case area such as criminal procedure, civil right, due process) coming soon!
 
 ![image](/assets/images/corr.png)
 
