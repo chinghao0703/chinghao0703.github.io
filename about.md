@@ -8,8 +8,8 @@ permalink: /about/
 I'm a biophyscist/computational biologist based in Boston, MA. Here you can find my [CV](https://www.dropbox.com/s/0fl1yhye8zwfcjq/CHW_CV.pdf?dl=0) and [Résumé](https://www.dropbox.com/s/u47ag9gug3add92/Resume_WANG.pdf?dl=0). Here is my [google scholar](https://scholar.google.com/citations?user=_-ylxpYAAAAJ&hl=en). Also check out my GitHub [repository](https://github.com/chinghao0703) for some eclectic codes I wrote. 
 
 
-### SCOTUS justices voting pattern ###
-Curious about the SCOTUS voting pattern? Shown below is the correlation and partial correlation of Justices in the Roberts' court (excludinng J.P. Stevens and S.D. O'Connor since they have less overlap with currently sitting justices) constructed based all cases documented in the [SCOTUS database](http://scdb.wustl.edu/). [Python Jupyter notebook](https://github.com/chinghao0703/chinghao0703.github.io/blob/master/SCOTUS/notebooks/SCOTUS-voting-correlation.ipynb), its [html](https://www.dropbox.com/s/wteg0uoc4m9bp7x/SCOTUS-voting-correlation.html?dl=0) verion, and [blogpost](https://chinghao0703.github.io/SCOTUS-Voting-Patterns/) with more detailed analysis (e.g. based on case area such as criminal procedure, civil right, due process) coming soon! Perhanps the degree of association between their vote is not as high as one might expect.
+#### SCOTUS justices voting pattern ####
+Curious about the SCOTUS voting pattern? Shown below is the correlation and partial correlation of Justices in the Roberts' court (excludinng J.P. Stevens and S.D. O'Connor since they have less overlap with currently sitting justices) constructed based all cases documented in the [SCOTUS database](http://scdb.wustl.edu/). Check out this [blogpost](https://chinghao0703.github.io/SCOTUS-Voting-Patterns/) for more details.
 
 ![image](/assets/images/corr_all.png)
 
