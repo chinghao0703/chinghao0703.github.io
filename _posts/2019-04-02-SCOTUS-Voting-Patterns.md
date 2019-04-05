@@ -5,8 +5,10 @@ title: SCOTUS voting patterns
 
 Here I compare the voting pattern of justices in ther Roberts' court (2005 to present). This data is publicly available at [SCOTUS database](http://scdb.wustl.edu/) provided by the Washington University of Law. On top of this dataset, I annotated the justices with party of the president by whom they were appointed to the bench.  You can find the [Python Jupyter notebook](https://github.com/chinghao0703/chinghao0703.github.io/blob/master/SCOTUS/notebooks/SCOTUS-voting-correlation.ipynb) and its [html](https://www.dropbox.com/s/wteg0uoc4m9bp7x/SCOTUS-voting-correlation.html?dl=0) verion used to generate these figures  here. More detailed analysis and interpretation to come.
 
+It's worth noting that when one one computes the partial correlation between the votes of pairs of justices, with other *controls* removed, their degree of association is not as large as some would intuitively expect. 
 
-![image](/assets/images/corr.png)
+
+![image](/assets/images/corr_all.png)
 
 ![image](/assets/images/corr_1st_Amendment.png)
 
