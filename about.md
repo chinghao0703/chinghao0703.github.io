@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-I'm a biophyscist/computational scientist/biologist based in Boston, MA. Here you can find my [CV](https://www.dropbox.com/s/0fl1yhye8zwfcjq/CHW_CV.pdf?dl=0) and [Résumé](https://www.dropbox.com/s/u47ag9gug3add92/Resume_WANG.pdf?dl=0). Here is my [google scholar](https://scholar.google.com/citations?user=_-ylxpYAAAAJ&hl=en). Also check out my GitHub [repository](https://github.com/chinghao0703) for some eclectic codes I wrote. 
+I'm a biophyscist/computational scientist/biologist based in Boston, MA. Here you can find my [CV/Resume](https://www.dropbox.com/s/0fl1yhye8zwfcjq/CHW_CV.pdf?dl=0). Here is my [google scholar](https://scholar.google.com/citations?user=_-ylxpYAAAAJ&hl=en). Also check out my GitHub [repository](https://github.com/chinghao0703) for some eclectic codes I wrote. 
 
 
 
