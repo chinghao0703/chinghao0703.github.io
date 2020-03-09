@@ -7,7 +7,7 @@ permalink: /Research/
 # General info
 
   * You can find my publication list in my [CV](https://www.dropbox.com/s/0fl1yhye8zwfcjq/CHW_CV.pdf?dl=0). 
-  * Here's my [Résumé](https://www.dropbox.com/s/u47ag9gug3add92/Resume_WANG.pdf?dl=0).
+  
   
 # Machine Learning and Physics
   * For the Machine Learning review I coauthored, please visit this [website](https://doi.org/10.1016/j.physrep.2019.03.001) for the published (but open-access) acticle and this [Github repository](https://github.com/drckf/mlreview_notebooks) for the Python Jupyter notebooks that come with it.
