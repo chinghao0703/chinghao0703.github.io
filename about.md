@@ -12,7 +12,7 @@ I'm a biophyscist/computational scientist/biologist based in Cambridge, MA. Here
 ### News ###
 
 **[05/26/2020]** 
-I have implemented (using [PyMC3](https://docs.pymc.io/)) a **Bayesian inference procedure of COVID-19 antibody tests with unknown specificity and sensitivity** following [Gelman & Carpenter proposal](http://www.stat.columbia.edu/~gelman/research/unpublished/specificity.pdf). Data can be found in the famous but (potentially) wrongly analyzed study by Bendavid et al. titled [COVID-19 Antibody Seroprevalence in Santa Clara County, California](https://www.medrxiv.org/content/10.1101/2020.04.14.20062463v2). For details, see my [repo](https://github.com/chinghao0703/Bayesian-Inference-covid-antibody-test).
+I have implemented (using [PyMC3](https://docs.pymc.io/)) a **Bayesian inference procedure of COVID-19 antibody tests with unknown specificity and sensitivity** following [Gelman & Carpenter proposal](http://www.stat.columbia.edu/~gelman/research/unpublished/specificity.pdf). Data can be found in the famous but (potentially) wrongly analyzed study by Bendavid *et al.* titled [COVID-19 Antibody Seroprevalence in Santa Clara County, California](https://www.medrxiv.org/content/10.1101/2020.04.14.20062463v2). For source code, see my [repo](https://github.com/chinghao0703/Bayesian-Inference-covid-antibody-test).
 
 
 **[05/13/2019]**
