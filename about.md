@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-I'm a biophyscist/computational scientist/biologist based in Cambridge, MA. Here you can find my [CV](https://www.dropbox.com/s/alep1vb8jt7l1l0/CHW_CV.pdf?dl=0). Here is my [google scholar](https://scholar.google.com/citations?user=_-ylxpYAAAAJ&hl=en). Also check out my GitHub [repository](https://github.com/chinghao0703) for some eclectic codes I wrote. 
+I'm a biophyscist/computational scientist/biologist based in Cambridge, MA. Here you can find my [CV](https://www.dropbox.com/scl/fi/zob3xb51ia0yka16lh1cl/CHW_CV.pdf?rlkey=aeqmaivggu2wpata63zd7fw20&e=1&dl=0). Here is my [google scholar](https://scholar.google.com/citations?user=_-ylxpYAAAAJ&hl=en). Also check out my GitHub [repository](https://github.com/chinghao0703) for some eclectic codes I wrote. 
 
 
 
