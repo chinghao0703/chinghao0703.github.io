@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-I'm a biophyscist/computational scientist/biologist based in Cambridge, MA. Here you can find my [CV](assets/CHW_CV.pdf). Here is my [google scholar](https://scholar.google.com/citations?user=_-ylxpYAAAAJ&hl=en). 
+I'm a biophyscist/computational scientist/biologist based in Cambridge, MA. Here you can find my [CV](assets/CHW_CV.pdf) (Note-- updated version upon request!) Here is my [google scholar](https://scholar.google.com/citations?user=_-ylxpYAAAAJ&hl=en). 
 
 
 
